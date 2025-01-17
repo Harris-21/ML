@@ -1,0 +1,1001 @@
+Name,Age,Hometown,Occupation,Number of Roses,Final Position
+Contestant_1,28,Los Angeles,Entrepreneur,13,5
+Contestant_2,36,New York,Entrepreneur,7,5
+Contestant_3,32,Houston,Athlete,9,2
+Contestant_4,29,Miami,Athlete,11,5
+Contestant_5,28,Miami,Designer,14,4
+Contestant_6,32,Chicago,Teacher,4,1
+Contestant_7,32,Los Angeles,Designer,13,3
+Contestant_8,25,Denver,Nurse,2,1
+Contestant_9,29,Los Angeles,Designer,5,5
+Contestant_10,24,Seattle,Actor,11,4
+Contestant_11,23,Boston,Actor,6,7
+Contestant_12,33,New York,Nurse,18,5
+Contestant_13,27,New York,Nurse,10,10
+Contestant_14,23,Los Angeles,Chef,4,4
+Contestant_15,22,Miami,Designer,9,2
+Contestant_16,33,Miami,Actor,6,4
+Contestant_17,33,Denver,Artist,2,2
+Contestant_18,38,Seattle,Artist,17,8
+Contestant_19,31,New York,Athlete,5,3
+Contestant_20,37,Denver,Chef,6,9
+Contestant_21,36,Miami,Artist,12,4
+Contestant_22,36,Denver,Chef,10,6
+Contestant_23,33,Boston,Doctor,6,10
+Contestant_24,24,Miami,Actor,8,5
+Contestant_25,26,San Francisco,Designer,2,10
+Contestant_26,28,Seattle,Chef,12,1
+Contestant_27,30,Houston,Chef,13,9
+Contestant_28,28,New York,Teacher,7,1
+Contestant_29,39,Chicago,Designer,10,8
+Contestant_30,25,Boston,Doctor,13,9
+Contestant_31,35,Atlanta,Teacher,17,9
+Contestant_32,39,Houston,Nurse,14,1
+Contestant_33,30,Chicago,Athlete,2,2
+Contestant_34,23,Miami,Actor,11,1
+Contestant_35,36,Atlanta,Engineer,1,10
+Contestant_36,28,Los Angeles,Designer,19,2
+Contestant_37,33,Los Angeles,Engineer,4,10
+Contestant_38,29,Boston,Nurse,19,8
+Contestant_39,36,Los Angeles,Designer,11,5
+Contestant_40,24,Atlanta,Doctor,8,7
+Contestant_41,35,Atlanta,Teacher,11,2
+Contestant_42,38,Seattle,Chef,4,8
+Contestant_43,25,Houston,Teacher,17,6
+Contestant_44,39,New York,Engineer,7,8
+Contestant_45,29,San Francisco,Designer,8,1
+Contestant_46,25,Denver,Entrepreneur,3,1
+Contestant_47,23,Los Angeles,Actor,2,7
+Contestant_48,27,Boston,Athlete,15,8
+Contestant_49,31,Los Angeles,Chef,5,3
+Contestant_50,25,Denver,Engineer,1,5
+Contestant_51,39,Houston,Actor,4,1
+Contestant_52,33,Seattle,Nurse,15,7
+Contestant_53,23,Atlanta,Chef,19,5
+Contestant_54,31,Seattle,Actor,3,8
+Contestant_55,25,Miami,Designer,11,8
+Contestant_56,35,Los Angeles,Nurse,17,9
+Contestant_57,37,New York,Doctor,13,7
+Contestant_58,36,Miami,Athlete,11,1
+Contestant_59,29,Houston,Engineer,2,3
+Contestant_60,35,Los Angeles,Artist,9,8
+Contestant_61,29,Miami,Entrepreneur,2,3
+Contestant_62,37,Los Angeles,Artist,9,8
+Contestant_63,34,Boston,Engineer,9,1
+Contestant_64,39,Houston,Chef,8,5
+Contestant_65,36,San Francisco,Engineer,17,4
+Contestant_66,34,Atlanta,Engineer,1,5
+Contestant_67,30,Chicago,Designer,11,8
+Contestant_68,36,Atlanta,Teacher,8,10
+Contestant_69,34,Atlanta,Entrepreneur,10,4
+Contestant_70,22,Miami,Doctor,7,4
+Contestant_71,28,Houston,Doctor,3,3
+Contestant_72,30,Los Angeles,Actor,3,7
+Contestant_73,22,Seattle,Doctor,18,3
+Contestant_74,33,Chicago,Entrepreneur,5,3
+Contestant_75,29,Denver,Actor,12,10
+Contestant_76,32,Miami,Actor,12,5
+Contestant_77,38,Chicago,Chef,19,5
+Contestant_78,29,San Francisco,Teacher,6,6
+Contestant_79,24,Boston,Artist,2,8
+Contestant_80,24,Houston,Nurse,12,10
+Contestant_81,22,Denver,Chef,19,6
+Contestant_82,26,Miami,Athlete,5,1
+Contestant_83,31,Atlanta,Teacher,12,8
+Contestant_84,28,New York,Teacher,17,8
+Contestant_85,30,Miami,Teacher,17,9
+Contestant_86,28,New York,Engineer,10,9
+Contestant_87,30,Atlanta,Athlete,17,2
+Contestant_88,29,Boston,Chef,15,2
+Contestant_89,33,Houston,Athlete,12,3
+Contestant_90,23,Los Angeles,Artist,16,1
+Contestant_91,22,Miami,Designer,19,4
+Contestant_92,37,Seattle,Athlete,8,4
+Contestant_93,26,Atlanta,Teacher,17,9
+Contestant_94,24,Miami,Artist,5,9
+Contestant_95,33,San Francisco,Designer,16,9
+Contestant_96,29,Boston,Entrepreneur,6,10
+Contestant_97,24,San Francisco,Designer,8,7
+Contestant_98,22,Chicago,Entrepreneur,18,2
+Contestant_99,24,Houston,Doctor,12,10
+Contestant_100,26,Chicago,Designer,15,5
+Contestant_101,36,Miami,Entrepreneur,9,4
+Contestant_102,35,Denver,Nurse,13,8
+Contestant_103,24,Denver,Teacher,15,2
+Contestant_104,22,Houston,Engineer,10,6
+Contestant_105,26,Seattle,Designer,16,5
+Contestant_106,35,Boston,Actor,7,2
+Contestant_107,28,Seattle,Athlete,17,10
+Contestant_108,30,Boston,Entrepreneur,7,1
+Contestant_109,36,Atlanta,Chef,14,8
+Contestant_110,36,Miami,Entrepreneur,15,2
+Contestant_111,31,Chicago,Designer,7,7
+Contestant_112,34,Denver,Entrepreneur,9,9
+Contestant_113,28,San Francisco,Artist,19,9
+Contestant_114,38,Los Angeles,Chef,16,8
+Contestant_115,25,New York,Designer,8,10
+Contestant_116,26,Los Angeles,Engineer,18,9
+Contestant_117,28,Chicago,Artist,18,2
+Contestant_118,34,Chicago,Chef,7,6
+Contestant_119,36,Boston,Athlete,3,4
+Contestant_120,32,Seattle,Actor,18,4
+Contestant_121,25,Los Angeles,Athlete,10,5
+Contestant_122,34,Boston,Entrepreneur,7,3
+Contestant_123,28,Boston,Entrepreneur,17,1
+Contestant_124,23,Seattle,Doctor,14,8
+Contestant_125,31,San Francisco,Chef,3,5
+Contestant_126,34,Denver,Entrepreneur,12,3
+Contestant_127,27,Houston,Doctor,13,10
+Contestant_128,33,Denver,Athlete,2,7
+Contestant_129,33,New York,Doctor,3,7
+Contestant_130,32,Los Angeles,Athlete,5,1
+Contestant_131,28,Denver,Designer,11,9
+Contestant_132,22,Houston,Entrepreneur,8,2
+Contestant_133,22,Atlanta,Artist,12,5
+Contestant_134,34,Los Angeles,Athlete,7,5
+Contestant_135,30,Houston,Actor,15,8
+Contestant_136,24,Boston,Artist,17,8
+Contestant_137,28,Chicago,Artist,4,7
+Contestant_138,27,San Francisco,Athlete,13,7
+Contestant_139,29,New York,Entrepreneur,18,6
+Contestant_140,30,Houston,Teacher,1,6
+Contestant_141,26,Denver,Engineer,16,9
+Contestant_142,22,Chicago,Doctor,13,6
+Contestant_143,31,Denver,Entrepreneur,10,2
+Contestant_144,33,Los Angeles,Designer,12,2
+Contestant_145,36,Houston,Doctor,2,5
+Contestant_146,30,Denver,Athlete,3,4
+Contestant_147,38,Seattle,Actor,10,2
+Contestant_148,38,Miami,Teacher,2,3
+Contestant_149,33,Chicago,Engineer,13,7
+Contestant_150,28,Atlanta,Entrepreneur,13,8
+Contestant_151,23,Chicago,Actor,18,6
+Contestant_152,24,Denver,Chef,3,5
+Contestant_153,38,Denver,Teacher,7,1
+Contestant_154,26,New York,Artist,14,8
+Contestant_155,38,Seattle,Teacher,17,3
+Contestant_156,38,Atlanta,Nurse,12,6
+Contestant_157,38,San Francisco,Actor,16,3
+Contestant_158,23,New York,Nurse,12,7
+Contestant_159,23,Los Angeles,Nurse,15,7
+Contestant_160,26,Atlanta,Entrepreneur,10,9
+Contestant_161,22,Houston,Teacher,7,5
+Contestant_162,22,Miami,Entrepreneur,5,8
+Contestant_163,23,New York,Designer,1,10
+Contestant_164,33,Miami,Entrepreneur,17,10
+Contestant_165,27,Seattle,Actor,3,8
+Contestant_166,25,Los Angeles,Engineer,13,1
+Contestant_167,32,Los Angeles,Designer,14,5
+Contestant_168,38,San Francisco,Engineer,18,3
+Contestant_169,27,Los Angeles,Teacher,4,1
+Contestant_170,26,Denver,Artist,18,4
+Contestant_171,23,Chicago,Chef,5,8
+Contestant_172,27,Chicago,Nurse,16,3
+Contestant_173,32,San Francisco,Actor,1,10
+Contestant_174,37,Denver,Engineer,14,2
+Contestant_175,37,Chicago,Chef,15,9
+Contestant_176,22,Houston,Doctor,9,10
+Contestant_177,30,Denver,Entrepreneur,15,5
+Contestant_178,27,Seattle,Nurse,17,7
+Contestant_179,37,Boston,Engineer,4,2
+Contestant_180,24,Miami,Designer,12,9
+Contestant_181,25,Denver,Actor,5,9
+Contestant_182,24,Miami,Entrepreneur,5,4
+Contestant_183,28,Houston,Athlete,11,4
+Contestant_184,30,Boston,Chef,6,6
+Contestant_185,22,Atlanta,Actor,7,10
+Contestant_186,29,San Francisco,Engineer,14,10
+Contestant_187,28,Denver,Artist,11,10
+Contestant_188,39,San Francisco,Designer,13,6
+Contestant_189,29,Los Angeles,Doctor,2,1
+Contestant_190,22,Miami,Athlete,7,9
+Contestant_191,32,Miami,Nurse,4,2
+Contestant_192,39,Los Angeles,Actor,8,5
+Contestant_193,31,Atlanta,Athlete,19,9
+Contestant_194,24,New York,Artist,13,4
+Contestant_195,28,Seattle,Engineer,14,3
+Contestant_196,37,Denver,Designer,10,7
+Contestant_197,37,Miami,Entrepreneur,11,6
+Contestant_198,38,Seattle,Chef,2,8
+Contestant_199,23,Miami,Engineer,9,3
+Contestant_200,22,New York,Teacher,17,5
+Contestant_201,37,Los Angeles,Doctor,3,10
+Contestant_202,33,New York,Doctor,6,4
+Contestant_203,26,Miami,Entrepreneur,5,4
+Contestant_204,26,Los Angeles,Designer,5,4
+Contestant_205,30,New York,Engineer,15,10
+Contestant_206,30,Atlanta,Engineer,17,8
+Contestant_207,24,Los Angeles,Artist,9,6
+Contestant_208,37,Denver,Nurse,3,3
+Contestant_209,37,Miami,Teacher,17,10
+Contestant_210,24,Houston,Chef,10,5
+Contestant_211,22,San Francisco,Designer,3,6
+Contestant_212,32,Miami,Actor,18,5
+Contestant_213,38,Denver,Nurse,18,6
+Contestant_214,29,Chicago,Chef,17,8
+Contestant_215,25,Seattle,Athlete,3,7
+Contestant_216,27,Seattle,Teacher,3,5
+Contestant_217,29,San Francisco,Chef,6,10
+Contestant_218,24,Miami,Engineer,13,6
+Contestant_219,37,San Francisco,Designer,15,4
+Contestant_220,24,Boston,Athlete,9,9
+Contestant_221,39,Miami,Chef,4,4
+Contestant_222,35,Los Angeles,Entrepreneur,14,1
+Contestant_223,39,Los Angeles,Doctor,5,7
+Contestant_224,23,Boston,Actor,2,7
+Contestant_225,24,Atlanta,Artist,11,4
+Contestant_226,37,Boston,Designer,9,3
+Contestant_227,30,Boston,Designer,3,8
+Contestant_228,25,San Francisco,Artist,9,5
+Contestant_229,22,New York,Actor,3,10
+Contestant_230,25,Los Angeles,Engineer,2,7
+Contestant_231,22,New York,Actor,12,4
+Contestant_232,35,Boston,Nurse,10,4
+Contestant_233,37,Atlanta,Actor,9,8
+Contestant_234,29,Los Angeles,Doctor,15,8
+Contestant_235,28,Miami,Chef,8,2
+Contestant_236,24,Miami,Entrepreneur,5,2
+Contestant_237,38,Miami,Artist,11,3
+Contestant_238,22,Denver,Engineer,2,3
+Contestant_239,37,San Francisco,Designer,15,1
+Contestant_240,33,Chicago,Engineer,6,3
+Contestant_241,35,Boston,Artist,8,6
+Contestant_242,27,Chicago,Athlete,5,8
+Contestant_243,27,Houston,Doctor,16,10
+Contestant_244,34,San Francisco,Doctor,18,6
+Contestant_245,29,Miami,Actor,6,5
+Contestant_246,23,Los Angeles,Artist,5,4
+Contestant_247,22,San Francisco,Teacher,16,3
+Contestant_248,36,Denver,Athlete,13,4
+Contestant_249,22,Los Angeles,Artist,5,7
+Contestant_250,26,New York,Engineer,13,1
+Contestant_251,37,Denver,Nurse,17,7
+Contestant_252,25,New York,Artist,18,1
+Contestant_253,24,Los Angeles,Athlete,8,2
+Contestant_254,38,Miami,Artist,13,4
+Contestant_255,38,Chicago,Artist,19,1
+Contestant_256,33,Boston,Actor,3,9
+Contestant_257,35,San Francisco,Teacher,8,6
+Contestant_258,27,San Francisco,Athlete,2,1
+Contestant_259,24,Miami,Doctor,8,1
+Contestant_260,30,Boston,Entrepreneur,13,6
+Contestant_261,26,New York,Teacher,13,4
+Contestant_262,38,Chicago,Teacher,1,4
+Contestant_263,35,Boston,Nurse,6,6
+Contestant_264,24,New York,Entrepreneur,19,7
+Contestant_265,22,Boston,Teacher,16,9
+Contestant_266,22,Houston,Engineer,8,10
+Contestant_267,24,San Francisco,Doctor,1,5
+Contestant_268,39,Houston,Teacher,16,9
+Contestant_269,31,Boston,Doctor,9,4
+Contestant_270,24,Denver,Actor,13,10
+Contestant_271,29,San Francisco,Artist,11,2
+Contestant_272,35,Chicago,Athlete,13,3
+Contestant_273,39,Miami,Actor,10,1
+Contestant_274,36,Houston,Doctor,4,6
+Contestant_275,23,Miami,Teacher,6,6
+Contestant_276,31,New York,Entrepreneur,7,1
+Contestant_277,23,Seattle,Doctor,5,3
+Contestant_278,38,Denver,Teacher,11,5
+Contestant_279,29,New York,Chef,13,3
+Contestant_280,22,Atlanta,Nurse,19,10
+Contestant_281,30,New York,Engineer,10,3
+Contestant_282,32,New York,Engineer,10,10
+Contestant_283,37,Seattle,Designer,11,3
+Contestant_284,28,San Francisco,Designer,7,5
+Contestant_285,31,Denver,Actor,18,5
+Contestant_286,24,Denver,Nurse,4,4
+Contestant_287,39,Chicago,Athlete,2,1
+Contestant_288,34,New York,Engineer,14,5
+Contestant_289,28,Denver,Designer,13,10
+Contestant_290,25,Los Angeles,Nurse,12,5
+Contestant_291,34,Chicago,Artist,7,4
+Contestant_292,22,Los Angeles,Athlete,2,6
+Contestant_293,29,Seattle,Doctor,13,10
+Contestant_294,35,Los Angeles,Nurse,14,4
+Contestant_295,37,Miami,Entrepreneur,17,7
+Contestant_296,35,Boston,Designer,9,7
+Contestant_297,33,Los Angeles,Doctor,17,2
+Contestant_298,36,Seattle,Doctor,8,3
+Contestant_299,23,Miami,Designer,2,1
+Contestant_300,23,Seattle,Chef,13,8
+Contestant_301,38,Seattle,Chef,3,9
+Contestant_302,31,New York,Engineer,16,4
+Contestant_303,27,Seattle,Designer,6,6
+Contestant_304,36,Los Angeles,Designer,19,9
+Contestant_305,32,Boston,Engineer,7,6
+Contestant_306,26,Seattle,Engineer,10,9
+Contestant_307,22,Seattle,Actor,9,4
+Contestant_308,29,Denver,Athlete,2,8
+Contestant_309,33,Atlanta,Teacher,15,9
+Contestant_310,33,Houston,Engineer,5,4
+Contestant_311,26,Miami,Teacher,4,5
+Contestant_312,28,Atlanta,Entrepreneur,4,8
+Contestant_313,25,Miami,Athlete,18,10
+Contestant_314,27,Houston,Athlete,4,6
+Contestant_315,34,Boston,Nurse,17,7
+Contestant_316,36,Chicago,Actor,12,3
+Contestant_317,24,Houston,Chef,17,7
+Contestant_318,29,San Francisco,Athlete,10,8
+Contestant_319,37,Atlanta,Nurse,1,10
+Contestant_320,34,Los Angeles,Entrepreneur,18,6
+Contestant_321,39,New York,Designer,18,10
+Contestant_322,31,San Francisco,Nurse,14,9
+Contestant_323,38,Seattle,Athlete,15,6
+Contestant_324,26,Seattle,Chef,12,9
+Contestant_325,30,Los Angeles,Engineer,4,4
+Contestant_326,33,Los Angeles,Engineer,3,8
+Contestant_327,22,Denver,Nurse,12,4
+Contestant_328,22,Miami,Artist,7,2
+Contestant_329,36,Denver,Chef,11,10
+Contestant_330,23,Houston,Designer,1,9
+Contestant_331,37,Chicago,Artist,6,5
+Contestant_332,29,Atlanta,Chef,15,4
+Contestant_333,34,Los Angeles,Actor,15,2
+Contestant_334,22,Miami,Designer,19,1
+Contestant_335,37,Atlanta,Chef,11,7
+Contestant_336,28,Houston,Chef,2,6
+Contestant_337,26,Chicago,Engineer,14,2
+Contestant_338,24,San Francisco,Actor,2,8
+Contestant_339,33,Denver,Chef,4,4
+Contestant_340,37,Houston,Actor,17,8
+Contestant_341,26,Seattle,Entrepreneur,3,7
+Contestant_342,35,Denver,Actor,13,5
+Contestant_343,26,New York,Teacher,9,10
+Contestant_344,36,Denver,Designer,7,10
+Contestant_345,38,Houston,Engineer,15,8
+Contestant_346,35,Los Angeles,Engineer,11,9
+Contestant_347,26,Chicago,Engineer,2,5
+Contestant_348,33,Houston,Engineer,15,10
+Contestant_349,37,Los Angeles,Chef,14,5
+Contestant_350,37,Los Angeles,Engineer,11,2
+Contestant_351,28,Denver,Actor,3,5
+Contestant_352,25,Chicago,Teacher,17,3
+Contestant_353,22,Houston,Nurse,12,7
+Contestant_354,26,Houston,Doctor,15,10
+Contestant_355,31,Seattle,Athlete,16,5
+Contestant_356,26,Miami,Nurse,5,8
+Contestant_357,25,Atlanta,Nurse,6,1
+Contestant_358,23,Miami,Actor,19,3
+Contestant_359,31,Houston,Engineer,5,3
+Contestant_360,22,Denver,Chef,3,9
+Contestant_361,26,San Francisco,Actor,1,5
+Contestant_362,34,Houston,Chef,6,9
+Contestant_363,25,New York,Doctor,15,9
+Contestant_364,37,Los Angeles,Entrepreneur,2,1
+Contestant_365,37,Boston,Athlete,3,2
+Contestant_366,23,Houston,Entrepreneur,17,5
+Contestant_367,38,New York,Actor,12,4
+Contestant_368,33,New York,Engineer,18,10
+Contestant_369,39,Atlanta,Athlete,15,9
+Contestant_370,24,Chicago,Nurse,12,7
+Contestant_371,22,Houston,Artist,16,6
+Contestant_372,22,Chicago,Teacher,8,7
+Contestant_373,32,San Francisco,Designer,14,1
+Contestant_374,26,Denver,Artist,17,1
+Contestant_375,33,Boston,Engineer,8,8
+Contestant_376,24,Denver,Actor,15,2
+Contestant_377,22,New York,Nurse,14,10
+Contestant_378,22,Los Angeles,Actor,18,9
+Contestant_379,29,Los Angeles,Engineer,7,7
+Contestant_380,31,Chicago,Entrepreneur,3,6
+Contestant_381,32,Denver,Athlete,12,1
+Contestant_382,33,New York,Artist,3,1
+Contestant_383,34,Atlanta,Chef,14,2
+Contestant_384,33,Seattle,Nurse,15,6
+Contestant_385,35,Denver,Athlete,14,6
+Contestant_386,23,Chicago,Athlete,7,2
+Contestant_387,39,Boston,Nurse,17,1
+Contestant_388,24,Chicago,Doctor,12,10
+Contestant_389,38,New York,Athlete,4,5
+Contestant_390,29,Houston,Entrepreneur,9,5
+Contestant_391,31,Atlanta,Doctor,6,2
+Contestant_392,23,New York,Teacher,16,6
+Contestant_393,30,Atlanta,Entrepreneur,2,9
+Contestant_394,28,Miami,Entrepreneur,8,2
+Contestant_395,25,Miami,Actor,11,10
+Contestant_396,39,Los Angeles,Actor,13,2
+Contestant_397,34,Atlanta,Doctor,17,3
+Contestant_398,32,Denver,Teacher,8,7
+Contestant_399,25,Boston,Teacher,18,6
+Contestant_400,25,Seattle,Athlete,18,8
+Contestant_401,31,Chicago,Chef,14,8
+Contestant_402,26,Miami,Engineer,15,6
+Contestant_403,30,Chicago,Teacher,6,10
+Contestant_404,24,Chicago,Doctor,11,3
+Contestant_405,38,Boston,Engineer,13,3
+Contestant_406,24,New York,Nurse,1,1
+Contestant_407,37,Chicago,Artist,6,7
+Contestant_408,25,Atlanta,Chef,9,5
+Contestant_409,39,Boston,Chef,8,4
+Contestant_410,38,Miami,Designer,11,10
+Contestant_411,28,Houston,Actor,19,4
+Contestant_412,26,Chicago,Teacher,9,4
+Contestant_413,33,Los Angeles,Actor,17,6
+Contestant_414,38,Boston,Entrepreneur,12,8
+Contestant_415,34,New York,Actor,14,8
+Contestant_416,24,San Francisco,Athlete,15,5
+Contestant_417,30,Miami,Athlete,16,6
+Contestant_418,38,Miami,Engineer,1,4
+Contestant_419,38,San Francisco,Doctor,10,9
+Contestant_420,37,Atlanta,Teacher,8,8
+Contestant_421,34,Houston,Teacher,18,10
+Contestant_422,38,Miami,Athlete,1,10
+Contestant_423,25,Miami,Doctor,2,1
+Contestant_424,33,New York,Engineer,1,2
+Contestant_425,30,Miami,Entrepreneur,1,9
+Contestant_426,33,Boston,Designer,9,8
+Contestant_427,30,Atlanta,Chef,13,3
+Contestant_428,28,Houston,Designer,1,8
+Contestant_429,35,Los Angeles,Athlete,13,1
+Contestant_430,36,Houston,Designer,7,10
+Contestant_431,37,Atlanta,Chef,2,4
+Contestant_432,26,Denver,Entrepreneur,6,3
+Contestant_433,24,Boston,Artist,7,6
+Contestant_434,33,Denver,Nurse,14,7
+Contestant_435,25,Atlanta,Engineer,18,4
+Contestant_436,37,New York,Actor,15,7
+Contestant_437,28,Los Angeles,Chef,2,9
+Contestant_438,34,Houston,Engineer,10,2
+Contestant_439,31,Chicago,Entrepreneur,12,3
+Contestant_440,28,Seattle,Athlete,17,5
+Contestant_441,35,Houston,Designer,8,3
+Contestant_442,26,New York,Nurse,11,8
+Contestant_443,24,Los Angeles,Entrepreneur,3,10
+Contestant_444,32,Seattle,Doctor,6,8
+Contestant_445,32,Boston,Artist,9,8
+Contestant_446,39,Atlanta,Chef,6,9
+Contestant_447,36,Atlanta,Athlete,9,4
+Contestant_448,33,Boston,Doctor,7,5
+Contestant_449,30,Seattle,Doctor,9,5
+Contestant_450,31,Denver,Artist,18,8
+Contestant_451,33,Los Angeles,Entrepreneur,12,7
+Contestant_452,38,Boston,Artist,8,9
+Contestant_453,27,Seattle,Teacher,8,8
+Contestant_454,28,Miami,Entrepreneur,18,2
+Contestant_455,35,Houston,Entrepreneur,15,10
+Contestant_456,34,New York,Actor,7,4
+Contestant_457,29,Boston,Engineer,11,6
+Contestant_458,31,New York,Doctor,16,2
+Contestant_459,30,Denver,Designer,4,7
+Contestant_460,39,Denver,Chef,6,3
+Contestant_461,23,Miami,Teacher,3,3
+Contestant_462,26,Atlanta,Teacher,9,2
+Contestant_463,26,Boston,Chef,10,8
+Contestant_464,27,Los Angeles,Nurse,14,6
+Contestant_465,29,Atlanta,Artist,11,1
+Contestant_466,37,Seattle,Nurse,18,1
+Contestant_467,34,Atlanta,Nurse,12,7
+Contestant_468,22,Los Angeles,Actor,12,8
+Contestant_469,38,Houston,Engineer,13,5
+Contestant_470,28,Denver,Chef,13,5
+Contestant_471,34,Houston,Doctor,19,4
+Contestant_472,25,Boston,Chef,19,6
+Contestant_473,25,Atlanta,Doctor,14,6
+Contestant_474,27,Boston,Designer,4,3
+Contestant_475,33,Houston,Engineer,13,9
+Contestant_476,28,Denver,Actor,8,7
+Contestant_477,31,Chicago,Athlete,19,1
+Contestant_478,28,Miami,Chef,12,7
+Contestant_479,24,Boston,Athlete,18,5
+Contestant_480,34,Boston,Chef,6,5
+Contestant_481,34,Chicago,Chef,18,2
+Contestant_482,39,Seattle,Entrepreneur,19,4
+Contestant_483,29,Seattle,Engineer,5,6
+Contestant_484,30,Houston,Chef,9,10
+Contestant_485,28,Boston,Doctor,3,7
+Contestant_486,22,Denver,Actor,10,5
+Contestant_487,24,New York,Teacher,19,9
+Contestant_488,34,Houston,Athlete,3,3
+Contestant_489,38,Houston,Designer,15,1
+Contestant_490,22,Miami,Actor,1,4
+Contestant_491,27,Boston,Engineer,7,9
+Contestant_492,27,Seattle,Chef,12,4
+Contestant_493,33,Seattle,Engineer,17,2
+Contestant_494,34,Atlanta,Artist,5,10
+Contestant_495,34,San Francisco,Chef,4,5
+Contestant_496,36,San Francisco,Athlete,12,3
+Contestant_497,37,San Francisco,Chef,18,9
+Contestant_498,32,Miami,Nurse,17,4
+Contestant_499,26,Denver,Engineer,19,6
+Contestant_500,25,San Francisco,Chef,9,2
+Contestant_501,24,Chicago,Entrepreneur,4,6
+Contestant_502,39,Los Angeles,Actor,2,3
+Contestant_503,36,Houston,Artist,4,9
+Contestant_504,30,Denver,Actor,2,2
+Contestant_505,38,Seattle,Teacher,15,9
+Contestant_506,35,Atlanta,Engineer,2,5
+Contestant_507,36,Los Angeles,Nurse,4,8
+Contestant_508,22,Miami,Engineer,6,2
+Contestant_509,24,Houston,Nurse,7,6
+Contestant_510,37,Miami,Nurse,10,3
+Contestant_511,32,Miami,Artist,19,10
+Contestant_512,33,Chicago,Actor,19,5
+Contestant_513,31,New York,Actor,12,8
+Contestant_514,37,New York,Teacher,3,10
+Contestant_515,29,Miami,Artist,13,1
+Contestant_516,27,San Francisco,Engineer,18,5
+Contestant_517,33,Seattle,Teacher,8,3
+Contestant_518,29,Los Angeles,Entrepreneur,15,4
+Contestant_519,25,San Francisco,Artist,1,2
+Contestant_520,29,Boston,Teacher,3,9
+Contestant_521,39,Seattle,Athlete,8,3
+Contestant_522,26,Miami,Teacher,4,2
+Contestant_523,30,Boston,Engineer,16,10
+Contestant_524,25,San Francisco,Teacher,10,9
+Contestant_525,38,Boston,Designer,12,7
+Contestant_526,30,Miami,Designer,14,6
+Contestant_527,22,Chicago,Athlete,14,1
+Contestant_528,34,New York,Athlete,2,5
+Contestant_529,37,Los Angeles,Designer,5,3
+Contestant_530,34,Boston,Athlete,5,1
+Contestant_531,35,Miami,Athlete,6,4
+Contestant_532,24,Chicago,Actor,13,2
+Contestant_533,27,Denver,Actor,9,2
+Contestant_534,39,San Francisco,Teacher,15,3
+Contestant_535,26,New York,Designer,14,8
+Contestant_536,36,Denver,Engineer,7,8
+Contestant_537,23,Miami,Designer,2,7
+Contestant_538,31,Los Angeles,Designer,7,6
+Contestant_539,39,San Francisco,Entrepreneur,6,9
+Contestant_540,34,Chicago,Entrepreneur,17,4
+Contestant_541,26,San Francisco,Athlete,2,1
+Contestant_542,22,Denver,Doctor,3,8
+Contestant_543,22,Denver,Actor,5,7
+Contestant_544,39,Seattle,Nurse,5,7
+Contestant_545,36,Atlanta,Engineer,1,3
+Contestant_546,38,San Francisco,Entrepreneur,8,4
+Contestant_547,32,Seattle,Designer,12,10
+Contestant_548,38,Denver,Designer,4,9
+Contestant_549,34,Boston,Doctor,13,6
+Contestant_550,22,Denver,Doctor,15,5
+Contestant_551,23,San Francisco,Actor,11,3
+Contestant_552,30,Chicago,Entrepreneur,10,9
+Contestant_553,24,San Francisco,Engineer,3,5
+Contestant_554,22,San Francisco,Engineer,14,5
+Contestant_555,37,Houston,Athlete,16,4
+Contestant_556,27,Miami,Athlete,10,4
+Contestant_557,38,Houston,Nurse,10,1
+Contestant_558,26,Denver,Chef,12,7
+Contestant_559,26,San Francisco,Designer,9,9
+Contestant_560,27,Miami,Athlete,1,3
+Contestant_561,24,Houston,Nurse,5,2
+Contestant_562,26,San Francisco,Doctor,8,3
+Contestant_563,26,Los Angeles,Designer,11,1
+Contestant_564,31,Houston,Athlete,12,6
+Contestant_565,31,Miami,Artist,1,7
+Contestant_566,38,Houston,Actor,11,2
+Contestant_567,35,Atlanta,Athlete,5,8
+Contestant_568,30,Atlanta,Designer,15,6
+Contestant_569,35,Denver,Nurse,5,4
+Contestant_570,22,Los Angeles,Teacher,12,5
+Contestant_571,34,Chicago,Doctor,5,8
+Contestant_572,34,Chicago,Designer,17,3
+Contestant_573,25,Miami,Engineer,17,3
+Contestant_574,22,Boston,Actor,12,4
+Contestant_575,38,Chicago,Engineer,15,1
+Contestant_576,29,Miami,Nurse,15,9
+Contestant_577,23,Los Angeles,Teacher,6,8
+Contestant_578,29,Boston,Doctor,12,8
+Contestant_579,28,Boston,Artist,18,10
+Contestant_580,23,Atlanta,Designer,14,6
+Contestant_581,24,Denver,Designer,2,7
+Contestant_582,39,San Francisco,Nurse,9,6
+Contestant_583,33,Boston,Nurse,5,9
+Contestant_584,22,New York,Athlete,1,3
+Contestant_585,33,Miami,Teacher,3,3
+Contestant_586,26,Boston,Actor,6,3
+Contestant_587,38,Boston,Actor,5,10
+Contestant_588,37,Seattle,Entrepreneur,5,3
+Contestant_589,36,New York,Chef,1,9
+Contestant_590,36,Seattle,Chef,17,4
+Contestant_591,26,Boston,Actor,19,7
+Contestant_592,35,San Francisco,Athlete,14,9
+Contestant_593,23,New York,Doctor,12,7
+Contestant_594,32,Atlanta,Actor,10,9
+Contestant_595,28,Houston,Engineer,18,3
+Contestant_596,27,Boston,Actor,11,4
+Contestant_597,23,Boston,Engineer,2,8
+Contestant_598,27,Denver,Nurse,18,6
+Contestant_599,39,Denver,Chef,7,5
+Contestant_600,23,Seattle,Entrepreneur,15,4
+Contestant_601,39,Miami,Entrepreneur,11,8
+Contestant_602,36,San Francisco,Athlete,18,1
+Contestant_603,23,Miami,Teacher,12,9
+Contestant_604,27,Houston,Actor,6,1
+Contestant_605,22,Boston,Engineer,13,8
+Contestant_606,36,San Francisco,Athlete,16,4
+Contestant_607,31,New York,Teacher,18,9
+Contestant_608,38,Boston,Actor,10,5
+Contestant_609,26,Atlanta,Entrepreneur,8,3
+Contestant_610,25,Boston,Chef,18,9
+Contestant_611,31,Chicago,Teacher,1,9
+Contestant_612,38,San Francisco,Athlete,8,4
+Contestant_613,31,Chicago,Engineer,6,4
+Contestant_614,38,Seattle,Entrepreneur,5,8
+Contestant_615,26,Denver,Nurse,15,2
+Contestant_616,23,New York,Chef,15,9
+Contestant_617,27,Boston,Actor,2,6
+Contestant_618,23,Seattle,Teacher,1,9
+Contestant_619,34,Seattle,Nurse,11,8
+Contestant_620,32,New York,Engineer,10,7
+Contestant_621,32,Los Angeles,Chef,18,1
+Contestant_622,37,Boston,Nurse,18,3
+Contestant_623,32,Chicago,Actor,17,2
+Contestant_624,36,San Francisco,Doctor,8,5
+Contestant_625,37,Chicago,Actor,15,5
+Contestant_626,32,New York,Entrepreneur,8,5
+Contestant_627,37,Houston,Teacher,17,4
+Contestant_628,29,Boston,Artist,12,5
+Contestant_629,25,Atlanta,Actor,8,3
+Contestant_630,29,Miami,Designer,14,1
+Contestant_631,25,San Francisco,Artist,4,5
+Contestant_632,24,Atlanta,Artist,1,9
+Contestant_633,24,Atlanta,Teacher,1,9
+Contestant_634,39,Boston,Teacher,19,4
+Contestant_635,26,Houston,Engineer,16,3
+Contestant_636,39,Boston,Entrepreneur,14,1
+Contestant_637,31,Houston,Engineer,16,2
+Contestant_638,27,Los Angeles,Nurse,5,8
+Contestant_639,22,San Francisco,Nurse,9,1
+Contestant_640,26,New York,Nurse,2,8
+Contestant_641,30,Denver,Doctor,18,7
+Contestant_642,33,New York,Actor,6,8
+Contestant_643,35,Atlanta,Athlete,9,6
+Contestant_644,23,Miami,Teacher,1,9
+Contestant_645,38,Los Angeles,Athlete,9,3
+Contestant_646,35,New York,Chef,16,10
+Contestant_647,34,New York,Teacher,13,4
+Contestant_648,30,Miami,Teacher,9,6
+Contestant_649,36,Miami,Teacher,13,8
+Contestant_650,36,New York,Athlete,9,5
+Contestant_651,32,Seattle,Teacher,11,3
+Contestant_652,37,Chicago,Designer,4,6
+Contestant_653,38,Miami,Doctor,2,4
+Contestant_654,25,Chicago,Chef,6,9
+Contestant_655,22,San Francisco,Actor,14,3
+Contestant_656,29,Los Angeles,Artist,4,4
+Contestant_657,38,Seattle,Designer,6,7
+Contestant_658,24,Miami,Athlete,19,7
+Contestant_659,36,San Francisco,Entrepreneur,6,4
+Contestant_660,36,Houston,Designer,2,6
+Contestant_661,35,Atlanta,Artist,18,3
+Contestant_662,35,Chicago,Nurse,13,6
+Contestant_663,23,Seattle,Artist,9,2
+Contestant_664,34,Seattle,Entrepreneur,19,8
+Contestant_665,35,Los Angeles,Designer,13,2
+Contestant_666,28,Chicago,Artist,11,7
+Contestant_667,24,Houston,Actor,1,9
+Contestant_668,36,Los Angeles,Athlete,7,1
+Contestant_669,35,Seattle,Designer,15,8
+Contestant_670,32,New York,Designer,1,7
+Contestant_671,36,Houston,Entrepreneur,12,6
+Contestant_672,34,Seattle,Chef,7,6
+Contestant_673,39,Boston,Nurse,15,6
+Contestant_674,27,Boston,Nurse,19,9
+Contestant_675,24,Miami,Chef,1,2
+Contestant_676,36,Los Angeles,Teacher,17,1
+Contestant_677,26,Seattle,Artist,17,6
+Contestant_678,31,Miami,Athlete,3,10
+Contestant_679,28,Los Angeles,Teacher,12,8
+Contestant_680,38,Houston,Entrepreneur,6,3
+Contestant_681,28,Seattle,Doctor,11,10
+Contestant_682,33,Los Angeles,Designer,3,1
+Contestant_683,38,Seattle,Actor,8,9
+Contestant_684,34,New York,Nurse,14,1
+Contestant_685,25,Atlanta,Engineer,14,3
+Contestant_686,31,Denver,Nurse,10,8
+Contestant_687,24,Boston,Engineer,2,3
+Contestant_688,30,Atlanta,Entrepreneur,14,4
+Contestant_689,34,Los Angeles,Engineer,9,8
+Contestant_690,39,Denver,Teacher,3,1
+Contestant_691,36,Atlanta,Entrepreneur,8,6
+Contestant_692,25,New York,Designer,16,1
+Contestant_693,36,Boston,Nurse,2,1
+Contestant_694,23,San Francisco,Teacher,6,8
+Contestant_695,36,Los Angeles,Chef,12,4
+Contestant_696,29,Boston,Engineer,5,1
+Contestant_697,29,Atlanta,Artist,2,10
+Contestant_698,38,San Francisco,Designer,16,7
+Contestant_699,33,Chicago,Actor,5,5
+Contestant_700,31,Boston,Doctor,15,5
+Contestant_701,30,Chicago,Chef,12,1
+Contestant_702,26,Denver,Doctor,4,10
+Contestant_703,27,Houston,Chef,15,6
+Contestant_704,23,Seattle,Nurse,11,9
+Contestant_705,34,Denver,Actor,16,9
+Contestant_706,27,San Francisco,Artist,6,8
+Contestant_707,26,San Francisco,Chef,14,5
+Contestant_708,22,Boston,Engineer,18,1
+Contestant_709,27,Seattle,Actor,12,9
+Contestant_710,27,Houston,Artist,11,1
+Contestant_711,37,Atlanta,Doctor,13,8
+Contestant_712,25,Miami,Actor,11,5
+Contestant_713,32,Los Angeles,Engineer,16,3
+Contestant_714,30,Houston,Actor,15,7
+Contestant_715,24,San Francisco,Teacher,15,7
+Contestant_716,29,Miami,Teacher,4,9
+Contestant_717,26,San Francisco,Doctor,11,7
+Contestant_718,25,Seattle,Entrepreneur,19,3
+Contestant_719,27,Seattle,Designer,15,1
+Contestant_720,23,Boston,Teacher,4,8
+Contestant_721,32,Atlanta,Designer,13,3
+Contestant_722,25,New York,Designer,19,8
+Contestant_723,36,San Francisco,Athlete,2,8
+Contestant_724,27,Atlanta,Doctor,14,5
+Contestant_725,38,Chicago,Engineer,4,1
+Contestant_726,27,San Francisco,Doctor,16,10
+Contestant_727,23,Miami,Entrepreneur,14,7
+Contestant_728,36,Atlanta,Artist,15,10
+Contestant_729,32,Houston,Teacher,3,5
+Contestant_730,29,Atlanta,Nurse,8,8
+Contestant_731,34,Houston,Athlete,16,9
+Contestant_732,33,Seattle,Nurse,10,7
+Contestant_733,26,Houston,Chef,4,7
+Contestant_734,27,Denver,Engineer,18,1
+Contestant_735,25,New York,Entrepreneur,2,4
+Contestant_736,22,Denver,Artist,17,2
+Contestant_737,38,Miami,Entrepreneur,13,2
+Contestant_738,33,Los Angeles,Engineer,4,2
+Contestant_739,36,Miami,Doctor,11,4
+Contestant_740,22,Boston,Artist,7,1
+Contestant_741,35,San Francisco,Chef,12,4
+Contestant_742,27,Denver,Athlete,10,2
+Contestant_743,26,Miami,Designer,7,5
+Contestant_744,32,San Francisco,Engineer,13,3
+Contestant_745,25,San Francisco,Engineer,7,8
+Contestant_746,34,San Francisco,Designer,17,4
+Contestant_747,32,New York,Athlete,10,1
+Contestant_748,24,Los Angeles,Nurse,10,1
+Contestant_749,22,Houston,Doctor,4,10
+Contestant_750,27,Miami,Nurse,4,3
+Contestant_751,39,Boston,Athlete,7,9
+Contestant_752,31,Miami,Artist,1,7
+Contestant_753,26,Houston,Teacher,12,2
+Contestant_754,31,Seattle,Entrepreneur,13,9
+Contestant_755,33,Atlanta,Chef,10,10
+Contestant_756,23,San Francisco,Doctor,15,2
+Contestant_757,34,Denver,Athlete,13,3
+Contestant_758,29,Denver,Actor,9,10
+Contestant_759,23,Atlanta,Artist,9,2
+Contestant_760,22,Boston,Athlete,15,3
+Contestant_761,26,Denver,Chef,10,6
+Contestant_762,30,Atlanta,Teacher,10,9
+Contestant_763,38,Atlanta,Engineer,8,9
+Contestant_764,30,San Francisco,Nurse,16,7
+Contestant_765,32,Houston,Actor,17,3
+Contestant_766,36,Houston,Engineer,5,4
+Contestant_767,27,Houston,Nurse,4,6
+Contestant_768,24,Miami,Nurse,18,5
+Contestant_769,38,Los Angeles,Nurse,19,2
+Contestant_770,26,Miami,Nurse,4,6
+Contestant_771,33,Atlanta,Nurse,7,3
+Contestant_772,39,Los Angeles,Doctor,10,8
+Contestant_773,35,Denver,Chef,18,2
+Contestant_774,32,Chicago,Designer,19,1
+Contestant_775,30,Miami,Doctor,4,9
+Contestant_776,23,Miami,Chef,10,3
+Contestant_777,33,San Francisco,Actor,1,1
+Contestant_778,24,Houston,Entrepreneur,18,7
+Contestant_779,24,Seattle,Doctor,5,10
+Contestant_780,22,Denver,Actor,15,5
+Contestant_781,29,Seattle,Engineer,17,5
+Contestant_782,29,Houston,Actor,3,1
+Contestant_783,32,Los Angeles,Artist,12,9
+Contestant_784,30,Miami,Engineer,2,7
+Contestant_785,26,Houston,Athlete,1,8
+Contestant_786,35,Miami,Actor,17,9
+Contestant_787,24,Atlanta,Teacher,16,6
+Contestant_788,26,Chicago,Doctor,5,5
+Contestant_789,26,Houston,Actor,15,6
+Contestant_790,35,New York,Nurse,3,2
+Contestant_791,25,Denver,Actor,7,4
+Contestant_792,34,Chicago,Teacher,11,3
+Contestant_793,31,Houston,Designer,10,7
+Contestant_794,39,New York,Designer,9,9
+Contestant_795,29,New York,Teacher,14,5
+Contestant_796,29,Denver,Teacher,13,6
+Contestant_797,28,Houston,Engineer,2,10
+Contestant_798,29,Chicago,Designer,3,2
+Contestant_799,35,San Francisco,Doctor,7,3
+Contestant_800,27,Los Angeles,Entrepreneur,18,3
+Contestant_801,22,New York,Artist,3,9
+Contestant_802,36,Seattle,Doctor,10,7
+Contestant_803,22,Houston,Artist,7,8
+Contestant_804,38,San Francisco,Doctor,9,10
+Contestant_805,22,San Francisco,Actor,17,9
+Contestant_806,36,San Francisco,Entrepreneur,11,6
+Contestant_807,23,Atlanta,Nurse,7,4
+Contestant_808,35,Chicago,Chef,14,1
+Contestant_809,29,New York,Nurse,19,8
+Contestant_810,29,Houston,Designer,4,7
+Contestant_811,28,San Francisco,Entrepreneur,6,2
+Contestant_812,27,Los Angeles,Doctor,10,8
+Contestant_813,27,Los Angeles,Artist,7,5
+Contestant_814,24,Boston,Entrepreneur,13,7
+Contestant_815,28,San Francisco,Actor,14,4
+Contestant_816,29,Los Angeles,Doctor,4,5
+Contestant_817,31,Seattle,Actor,8,8
+Contestant_818,36,New York,Entrepreneur,5,1
+Contestant_819,36,Chicago,Engineer,1,1
+Contestant_820,22,Chicago,Actor,4,4
+Contestant_821,28,Seattle,Chef,3,3
+Contestant_822,25,Houston,Chef,9,10
+Contestant_823,27,Los Angeles,Designer,8,2
+Contestant_824,22,Miami,Chef,1,3
+Contestant_825,26,Los Angeles,Actor,6,1
+Contestant_826,22,Denver,Teacher,9,1
+Contestant_827,25,Boston,Designer,7,6
+Contestant_828,23,Seattle,Designer,4,5
+Contestant_829,31,Seattle,Actor,13,8
+Contestant_830,26,Seattle,Nurse,17,2
+Contestant_831,31,Miami,Entrepreneur,2,4
+Contestant_832,22,Denver,Engineer,5,8
+Contestant_833,27,Boston,Chef,12,6
+Contestant_834,34,San Francisco,Engineer,8,1
+Contestant_835,36,San Francisco,Chef,6,4
+Contestant_836,25,Houston,Athlete,8,1
+Contestant_837,34,Seattle,Teacher,18,2
+Contestant_838,36,Boston,Nurse,3,5
+Contestant_839,29,Houston,Entrepreneur,12,8
+Contestant_840,26,Seattle,Actor,3,8
+Contestant_841,36,Seattle,Engineer,6,3
+Contestant_842,25,New York,Engineer,2,4
+Contestant_843,33,Seattle,Actor,12,10
+Contestant_844,34,Los Angeles,Entrepreneur,2,6
+Contestant_845,23,Miami,Entrepreneur,6,10
+Contestant_846,25,Miami,Designer,17,3
+Contestant_847,25,Houston,Athlete,3,2
+Contestant_848,32,Los Angeles,Chef,2,6
+Contestant_849,26,Chicago,Teacher,8,5
+Contestant_850,32,Miami,Designer,12,10
+Contestant_851,31,Chicago,Actor,4,5
+Contestant_852,29,Denver,Designer,5,10
+Contestant_853,27,Los Angeles,Doctor,13,5
+Contestant_854,27,Chicago,Actor,15,10
+Contestant_855,29,New York,Athlete,16,5
+Contestant_856,36,Boston,Chef,10,3
+Contestant_857,35,San Francisco,Entrepreneur,16,7
+Contestant_858,32,Seattle,Doctor,12,6
+Contestant_859,33,San Francisco,Engineer,17,4
+Contestant_860,34,Houston,Chef,16,2
+Contestant_861,29,New York,Actor,12,9
+Contestant_862,39,Miami,Nurse,8,1
+Contestant_863,22,Houston,Teacher,3,4
+Contestant_864,36,Houston,Doctor,16,1
+Contestant_865,29,San Francisco,Teacher,13,6
+Contestant_866,32,Los Angeles,Athlete,19,4
+Contestant_867,33,Miami,Designer,8,5
+Contestant_868,33,Houston,Doctor,5,5
+Contestant_869,25,Seattle,Teacher,8,9
+Contestant_870,37,Miami,Engineer,12,1
+Contestant_871,25,Boston,Artist,1,2
+Contestant_872,26,Los Angeles,Actor,6,6
+Contestant_873,26,Denver,Actor,18,5
+Contestant_874,29,Miami,Chef,8,7
+Contestant_875,31,Chicago,Athlete,7,3
+Contestant_876,38,Houston,Doctor,1,3
+Contestant_877,30,Chicago,Athlete,16,10
+Contestant_878,35,Los Angeles,Teacher,12,2
+Contestant_879,29,New York,Designer,6,3
+Contestant_880,30,Chicago,Actor,2,10
+Contestant_881,32,Houston,Actor,14,1
+Contestant_882,22,Seattle,Designer,4,5
+Contestant_883,35,Seattle,Engineer,1,5
+Contestant_884,26,Houston,Athlete,18,7
+Contestant_885,35,San Francisco,Teacher,13,4
+Contestant_886,25,Los Angeles,Nurse,2,3
+Contestant_887,22,San Francisco,Actor,9,1
+Contestant_888,29,Houston,Chef,2,8
+Contestant_889,36,Boston,Actor,9,3
+Contestant_890,36,Houston,Entrepreneur,1,2
+Contestant_891,30,Denver,Artist,11,4
+Contestant_892,30,Denver,Engineer,3,3
+Contestant_893,31,San Francisco,Doctor,4,1
+Contestant_894,30,San Francisco,Teacher,18,3
+Contestant_895,24,Los Angeles,Designer,6,2
+Contestant_896,32,Seattle,Nurse,3,8
+Contestant_897,27,New York,Chef,11,6
+Contestant_898,23,Boston,Nurse,15,9
+Contestant_899,28,Atlanta,Engineer,5,8
+Contestant_900,39,Seattle,Entrepreneur,10,10
+Contestant_901,23,Houston,Entrepreneur,12,3
+Contestant_902,38,New York,Designer,15,5
+Contestant_903,32,Los Angeles,Artist,17,7
+Contestant_904,33,Miami,Athlete,10,5
+Contestant_905,28,Seattle,Entrepreneur,6,8
+Contestant_906,27,Seattle,Designer,18,5
+Contestant_907,22,New York,Artist,13,1
+Contestant_908,38,Houston,Engineer,3,5
+Contestant_909,32,Seattle,Teacher,10,4
+Contestant_910,39,New York,Engineer,14,6
+Contestant_911,38,Chicago,Designer,6,3
+Contestant_912,28,San Francisco,Teacher,3,5
+Contestant_913,38,Denver,Designer,16,2
+Contestant_914,30,San Francisco,Engineer,7,6
+Contestant_915,38,Houston,Actor,14,6
+Contestant_916,29,Chicago,Actor,9,5
+Contestant_917,38,Seattle,Engineer,15,6
+Contestant_918,28,Boston,Nurse,3,7
+Contestant_919,22,San Francisco,Nurse,2,5
+Contestant_920,34,Los Angeles,Entrepreneur,2,1
+Contestant_921,38,San Francisco,Entrepreneur,3,8
+Contestant_922,34,Atlanta,Teacher,18,4
+Contestant_923,37,Boston,Teacher,14,9
+Contestant_924,29,Atlanta,Actor,18,10
+Contestant_925,39,Atlanta,Nurse,10,6
+Contestant_926,22,Los Angeles,Artist,2,1
+Contestant_927,35,Chicago,Engineer,1,3
+Contestant_928,36,Atlanta,Artist,4,3
+Contestant_929,39,Boston,Teacher,14,10
+Contestant_930,23,San Francisco,Artist,1,4
+Contestant_931,38,Houston,Designer,14,6
+Contestant_932,39,Boston,Doctor,16,7
+Contestant_933,27,Denver,Actor,14,10
+Contestant_934,25,New York,Nurse,3,4
+Contestant_935,22,San Francisco,Athlete,3,6
+Contestant_936,29,Los Angeles,Actor,9,1
+Contestant_937,28,Atlanta,Designer,6,8
+Contestant_938,24,Houston,Nurse,13,7
+Contestant_939,31,Atlanta,Teacher,2,9
+Contestant_940,31,Los Angeles,Athlete,8,3
+Contestant_941,35,Boston,Engineer,2,2
+Contestant_942,23,Denver,Engineer,4,1
+Contestant_943,22,New York,Entrepreneur,15,3
+Contestant_944,39,Denver,Chef,4,5
+Contestant_945,28,San Francisco,Designer,13,2
+Contestant_946,29,Boston,Nurse,12,3
+Contestant_947,22,New York,Chef,13,4
+Contestant_948,24,Miami,Chef,14,7
+Contestant_949,29,Denver,Athlete,18,3
+Contestant_950,36,Atlanta,Engineer,6,9
+Contestant_951,26,Seattle,Teacher,11,8
+Contestant_952,24,San Francisco,Actor,2,4
+Contestant_953,22,San Francisco,Engineer,19,1
+Contestant_954,36,New York,Designer,19,1
+Contestant_955,29,Miami,Designer,5,1
+Contestant_956,23,Houston,Nurse,19,1
+Contestant_957,24,Denver,Actor,2,8
+Contestant_958,35,Chicago,Teacher,10,3
+Contestant_959,35,Houston,Nurse,2,6
+Contestant_960,32,San Francisco,Athlete,11,3
+Contestant_961,37,San Francisco,Teacher,18,5
+Contestant_962,25,Los Angeles,Teacher,15,7
+Contestant_963,26,New York,Chef,9,2
+Contestant_964,35,Seattle,Nurse,19,6
+Contestant_965,37,Miami,Doctor,9,6
+Contestant_966,39,Chicago,Engineer,3,3
+Contestant_967,28,Houston,Nurse,9,6
+Contestant_968,31,Denver,Teacher,14,10
+Contestant_969,28,New York,Entrepreneur,19,10
+Contestant_970,22,Denver,Teacher,7,5
+Contestant_971,37,Boston,Teacher,16,2
+Contestant_972,25,Los Angeles,Actor,16,9
+Contestant_973,39,Miami,Artist,1,8
+Contestant_974,23,Los Angeles,Actor,4,3
+Contestant_975,22,San Francisco,Nurse,4,8
+Contestant_976,36,Los Angeles,Entrepreneur,7,9
+Contestant_977,26,Chicago,Engineer,8,3
+Contestant_978,32,San Francisco,Entrepreneur,17,3
+Contestant_979,31,Houston,Artist,5,2
+Contestant_980,23,Denver,Nurse,7,8
+Contestant_981,24,Houston,Entrepreneur,4,10
+Contestant_982,33,Boston,Teacher,6,1
+Contestant_983,26,San Francisco,Entrepreneur,7,8
+Contestant_984,26,San Francisco,Athlete,18,7
+Contestant_985,27,Miami,Nurse,5,7
+Contestant_986,30,San Francisco,Engineer,3,3
+Contestant_987,23,Denver,Nurse,7,1
+Contestant_988,33,Chicago,Teacher,14,4
+Contestant_989,24,Boston,Athlete,7,9
+Contestant_990,33,Miami,Athlete,5,5
+Contestant_991,38,Seattle,Teacher,5,1
+Contestant_992,31,Denver,Teacher,2,5
+Contestant_993,35,Chicago,Athlete,6,8
+Contestant_994,38,Los Angeles,Athlete,15,8
+Contestant_995,39,Houston,Actor,10,5
+Contestant_996,38,Boston,Athlete,7,9
+Contestant_997,35,Atlanta,Doctor,5,1
+Contestant_998,30,Denver,Doctor,1,4
+Contestant_999,29,Houston,Engineer,13,3
+Contestant_1000,23,New York,Doctor,18,2

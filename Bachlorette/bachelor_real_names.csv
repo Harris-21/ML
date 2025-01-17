@@ -1,0 +1,1001 @@
+Name,Age,Hometown,Occupation,Number of Roses,Final Position
+Patricia Smith,28,Seattle,Teacher,13,5
+William Davis,36,Houston,Actor,7,5
+Linda Jones,32,Miami,Engineer,9,2
+Patricia Jackson,29,Seattle,Artist,11,5
+John Martin,28,Boston,Entrepreneur,14,4
+Susan Johnson,32,Seattle,Engineer,4,1
+James Williams,32,New York,Teacher,13,3
+Michael Davis,25,San Francisco,Actor,2,1
+Thomas Lee,29,Denver,Teacher,5,5
+James Jackson,24,Houston,Nurse,11,4
+Michael Jackson,23,Houston,Chef,6,7
+Susan Davis,33,San Francisco,Chef,18,5
+Joseph Martin,27,Miami,Athlete,10,10
+William Smith,23,Boston,Teacher,4,4
+Jennifer Anderson,22,Houston,Athlete,9,2
+David Martinez,33,San Francisco,Chef,6,4
+Robert Miller,33,Los Angeles,Chef,2,2
+David Brown,38,New York,Teacher,17,8
+John Wilson,31,Chicago,Designer,5,3
+Patricia Gonzalez,37,San Francisco,Nurse,6,9
+Barbara Lee,36,Boston,Teacher,12,4
+William Johnson,36,San Francisco,Nurse,10,6
+Joseph Jackson,33,San Francisco,Teacher,6,10
+Patricia Wilson,24,Miami,Designer,8,5
+John Jackson,26,Atlanta,Entrepreneur,2,10
+Elizabeth Lee,28,Seattle,Teacher,12,1
+Barbara Martin,30,Chicago,Teacher,13,9
+Michael Williams,28,Atlanta,Actor,7,1
+Mary Davis,39,Atlanta,Designer,10,8
+Elizabeth Williams,25,Atlanta,Athlete,13,9
+Linda Brown,35,Boston,Doctor,17,9
+Richard Martinez,39,Chicago,Actor,14,1
+Joseph Gonzalez,30,Atlanta,Doctor,2,2
+Jennifer Gonzalez,23,Denver,Designer,11,1
+Barbara Miller,36,Denver,Teacher,1,10
+William Williams,28,Los Angeles,Artist,19,2
+Karen Garcia,33,Atlanta,Chef,4,10
+Sarah Davis,29,Miami,Nurse,19,8
+Jennifer Thomas,36,San Francisco,Nurse,11,5
+Richard Martinez,24,Los Angeles,Designer,8,7
+Sarah Davis,35,Houston,Chef,11,2
+David Johnson,38,San Francisco,Designer,4,8
+Linda Johnson,25,Miami,Chef,17,6
+David Wilson,39,Chicago,Designer,7,8
+William Williams,29,Los Angeles,Designer,8,1
+Michael Martin,25,New York,Teacher,3,1
+David Miller,23,Houston,Engineer,2,7
+Jessica Wilson,27,Boston,Athlete,15,8
+Joseph Jones,31,Seattle,Doctor,5,3
+William Jones,25,Boston,Artist,1,5
+Linda Jackson,39,Miami,Entrepreneur,4,1
+Sarah Martinez,33,Chicago,Doctor,15,7
+Charles Anderson,23,Atlanta,Entrepreneur,19,5
+Charles Wilson,31,Seattle,Artist,3,8
+Barbara Davis,25,Atlanta,Nurse,11,8
+Robert Moore,35,Miami,Entrepreneur,17,9
+Jessica Williams,37,Chicago,Teacher,13,7
+Mary Brown,36,San Francisco,Designer,11,1
+Robert Garcia,29,Denver,Athlete,2,3
+Susan Lee,35,San Francisco,Designer,9,8
+John Wilson,29,San Francisco,Nurse,2,3
+Richard Lee,37,Houston,Nurse,9,8
+Joseph Moore,34,San Francisco,Engineer,9,1
+William Jackson,39,New York,Athlete,8,5
+James Brown,36,Los Angeles,Engineer,17,4
+Sarah Martinez,34,Boston,Entrepreneur,1,5
+David Brown,30,Denver,Nurse,11,8
+Elizabeth Anderson,36,San Francisco,Actor,8,10
+Jennifer Thomas,34,Miami,Nurse,10,4
+James Martinez,22,Miami,Doctor,7,4
+Thomas Garcia,28,Seattle,Designer,3,3
+Thomas Brown,30,Atlanta,Nurse,3,7
+Elizabeth Moore,22,New York,Artist,18,3
+Karen Miller,33,New York,Chef,5,3
+Robert Gonzalez,29,Houston,Engineer,12,10
+Jennifer Jackson,32,San Francisco,Artist,12,5
+Thomas Smith,38,Seattle,Entrepreneur,19,5
+Karen Lopez,29,San Francisco,Doctor,6,6
+Jessica Smith,24,Houston,Designer,2,8
+Patricia Gonzalez,24,Denver,Entrepreneur,12,10
+Elizabeth Davis,22,New York,Actor,19,6
+Mary Davis,26,Los Angeles,Engineer,5,1
+Charles Williams,31,Boston,Designer,12,8
+John Taylor,28,Chicago,Engineer,17,8
+John Jackson,30,Houston,Artist,17,9
+Robert Jones,28,Atlanta,Artist,10,9
+Jessica Jackson,30,Boston,Athlete,17,2
+Jennifer Martinez,29,Atlanta,Actor,15,2
+Thomas Lee,33,New York,Athlete,12,3
+Susan Miller,23,Boston,Chef,16,1
+Sarah Miller,22,New York,Teacher,19,4
+Elizabeth Wilson,37,Seattle,Athlete,8,4
+Barbara Thomas,26,Denver,Teacher,17,9
+Thomas Thomas,24,Miami,Artist,5,9
+Patricia Davis,33,Atlanta,Artist,16,9
+Linda Williams,29,Denver,Doctor,6,10
+David Smith,24,Houston,Athlete,8,7
+Charles Jackson,22,Los Angeles,Actor,18,2
+Linda Martin,24,Boston,Nurse,12,10
+Linda Smith,26,Denver,Entrepreneur,15,5
+John Johnson,36,San Francisco,Athlete,9,4
+Linda Williams,35,Denver,Nurse,13,8
+Mary Lopez,24,Houston,Teacher,15,2
+John Moore,22,Seattle,Actor,10,6
+Linda Martinez,26,Seattle,Entrepreneur,16,5
+Jessica Miller,35,Los Angeles,Entrepreneur,7,2
+Sarah Jones,28,Chicago,Athlete,17,10
+Charles Martin,30,Los Angeles,Entrepreneur,7,1
+Jessica Davis,36,Boston,Nurse,14,8
+Jessica Anderson,36,Atlanta,Engineer,15,2
+Michael Brown,31,Atlanta,Teacher,7,7
+Patricia Anderson,34,Denver,Chef,9,9
+Barbara Anderson,28,Atlanta,Doctor,19,9
+Susan Thomas,38,Chicago,Entrepreneur,16,8
+Mary Brown,25,Miami,Teacher,8,10
+Mary Wilson,26,Seattle,Teacher,18,9
+David Brown,28,Denver,Artist,18,2
+Linda Miller,34,Boston,Teacher,7,6
+Michael Jackson,36,Denver,Actor,3,4
+Joseph Jones,32,New York,Artist,18,4
+Susan Garcia,25,New York,Chef,10,5
+William Thomas,34,New York,Designer,7,3
+Linda Williams,28,Chicago,Teacher,17,1
+Joseph Jackson,23,Atlanta,Athlete,14,8
+Patricia Johnson,31,San Francisco,Entrepreneur,3,5
+Sarah Smith,34,Denver,Chef,12,3
+John Davis,27,San Francisco,Chef,13,10
+Jennifer Anderson,33,Chicago,Designer,2,7
+Jessica Taylor,33,Seattle,Engineer,3,7
+Michael Wilson,32,Denver,Engineer,5,1
+Mary Garcia,28,Chicago,Chef,11,9
+Richard Smith,22,Atlanta,Nurse,8,2
+Richard Martinez,22,Seattle,Entrepreneur,12,5
+Joseph Hernandez,34,Atlanta,Actor,7,5
+Susan Jackson,30,Chicago,Designer,15,8
+Jessica Jones,24,Boston,Designer,17,8
+Michael Hernandez,28,Seattle,Actor,4,7
+Michael Johnson,27,Houston,Athlete,13,7
+Charles Jackson,29,Seattle,Doctor,18,6
+Mary Lopez,30,Atlanta,Engineer,1,6
+Mary Johnson,26,Denver,Designer,16,9
+Charles Taylor,22,Denver,Actor,13,6
+Thomas Moore,31,Denver,Engineer,10,2
+Jennifer Johnson,33,San Francisco,Nurse,12,2
+Thomas Williams,36,Seattle,Chef,2,5
+Jennifer Williams,30,Houston,Artist,3,4
+Karen Williams,38,San Francisco,Chef,10,2
+Linda Wilson,38,New York,Artist,2,3
+Patricia Martin,33,Atlanta,Designer,13,7
+Linda Martin,28,Atlanta,Entrepreneur,13,8
+Karen Johnson,23,Los Angeles,Actor,18,6
+Karen Williams,24,Boston,Entrepreneur,3,5
+Susan Martin,38,Seattle,Actor,7,1
+Charles Moore,26,Houston,Nurse,14,8
+David Martinez,38,New York,Athlete,17,3
+Michael Lopez,38,Seattle,Teacher,12,6
+Linda Martinez,38,San Francisco,Athlete,16,3
+Richard Jones,23,Houston,Designer,12,7
+Elizabeth Thomas,23,Seattle,Actor,15,7
+David Williams,26,Seattle,Doctor,10,9
+James Thomas,22,Miami,Doctor,7,5
+Karen Martin,22,New York,Engineer,5,8
+Patricia Williams,23,Seattle,Designer,1,10
+Sarah Miller,33,San Francisco,Doctor,17,10
+Thomas Martinez,27,Chicago,Engineer,3,8
+Robert Gonzalez,25,Denver,Teacher,13,1
+John Davis,32,Seattle,Designer,14,5
+Barbara Hernandez,38,Boston,Designer,18,3
+Jennifer Thomas,27,Chicago,Doctor,4,1
+Sarah Hernandez,26,Miami,Chef,18,4
+Karen Moore,23,New York,Artist,5,8
+James Jackson,27,Seattle,Teacher,16,3
+Elizabeth Brown,32,Los Angeles,Entrepreneur,1,10
+Robert Martinez,37,Miami,Teacher,14,2
+Patricia Brown,37,New York,Entrepreneur,15,9
+Sarah Jones,22,San Francisco,Engineer,9,10
+William Hernandez,30,Atlanta,Actor,15,5
+Karen Miller,27,Boston,Entrepreneur,17,7
+David Miller,37,Chicago,Engineer,4,2
+William Moore,24,Boston,Actor,12,9
+Jessica Martinez,25,Miami,Teacher,5,9
+Mary Williams,24,Boston,Doctor,5,4
+Susan Martinez,28,Denver,Chef,11,4
+Mary Smith,30,Seattle,Entrepreneur,6,6
+David Jones,22,San Francisco,Artist,7,10
+William Garcia,29,New York,Chef,14,10
+Joseph Jackson,28,Chicago,Engineer,11,10
+Susan Jackson,39,Denver,Engineer,13,6
+James Brown,29,Miami,Doctor,2,1
+John Jones,22,Denver,Artist,7,9
+Sarah Johnson,32,Atlanta,Designer,4,2
+Barbara Martin,39,San Francisco,Engineer,8,5
+Sarah Jones,31,Denver,Teacher,19,9
+Susan Jones,24,Boston,Athlete,13,4
+Mary Hernandez,28,Atlanta,Artist,14,3
+Barbara Johnson,37,Chicago,Nurse,10,7
+Barbara Miller,37,San Francisco,Designer,11,6
+Linda Brown,38,Denver,Doctor,2,8
+Barbara Jackson,23,Atlanta,Doctor,9,3
+Susan Lee,22,Denver,Actor,17,5
+Robert Davis,37,Atlanta,Engineer,3,10
+Jennifer Garcia,33,Houston,Chef,6,4
+Susan Smith,26,Seattle,Teacher,5,4
+Jennifer Lopez,26,San Francisco,Designer,5,4
+Susan Davis,30,Miami,Engineer,15,10
+William Garcia,30,Miami,Artist,17,8
+Patricia Wilson,24,Houston,Chef,9,6
+Mary Taylor,37,Denver,Engineer,3,3
+Linda Miller,37,Houston,Engineer,17,10
+Joseph Gonzalez,24,Miami,Engineer,10,5
+Elizabeth Davis,22,Houston,Actor,3,6
+Linda Smith,32,Houston,Actor,18,5
+Michael Wilson,38,Miami,Entrepreneur,18,6
+David Martinez,29,San Francisco,Teacher,17,8
+John Martinez,25,Atlanta,Chef,3,7
+Barbara Moore,27,San Francisco,Teacher,3,5
+Richard Jackson,29,Atlanta,Teacher,6,10
+David Smith,24,Denver,Engineer,13,6
+Patricia Martinez,37,Houston,Nurse,15,4
+Jennifer Martin,24,Houston,Athlete,9,9
+William Johnson,39,Los Angeles,Doctor,4,4
+Patricia Lee,35,Seattle,Athlete,14,1
+Susan Gonzalez,39,Denver,Teacher,5,7
+David Anderson,23,Boston,Designer,2,7
+Karen Moore,24,Boston,Actor,11,4
+Patricia Wilson,37,Atlanta,Artist,9,3
+Charles Miller,30,Chicago,Teacher,3,8
+William Johnson,25,Houston,Chef,9,5
+Susan Smith,22,New York,Athlete,3,10
+Thomas Jackson,25,Houston,Designer,2,7
+Michael Gonzalez,22,Los Angeles,Artist,12,4
+Susan Williams,35,Atlanta,Engineer,10,4
+David Lee,37,San Francisco,Engineer,9,8
+David Brown,29,Houston,Teacher,15,8
+Elizabeth Moore,28,San Francisco,Engineer,8,2
+Elizabeth Anderson,24,Miami,Athlete,5,2
+David Wilson,38,Miami,Chef,11,3
+Elizabeth Jackson,22,Denver,Actor,2,3
+Robert Miller,37,Houston,Chef,15,1
+Susan Wilson,33,Denver,Actor,6,3
+Jennifer Lee,35,Houston,Teacher,8,6
+Charles Hernandez,27,Chicago,Artist,5,8
+Richard Jackson,27,Los Angeles,Entrepreneur,16,10
+James Hernandez,34,Seattle,Engineer,18,6
+Elizabeth Miller,29,Seattle,Artist,6,5
+Susan Martin,23,Miami,Nurse,5,4
+Karen Lopez,22,Miami,Athlete,16,3
+Joseph Thomas,36,New York,Athlete,13,4
+Joseph Miller,22,Denver,Athlete,5,7
+Thomas Taylor,26,Miami,Entrepreneur,13,1
+Jennifer Williams,37,Miami,Doctor,17,7
+Elizabeth Moore,25,New York,Entrepreneur,18,1
+Karen Lopez,24,Los Angeles,Artist,8,2
+John Davis,38,Boston,Nurse,13,4
+Elizabeth Davis,38,Atlanta,Athlete,19,1
+Michael Jones,33,San Francisco,Nurse,3,9
+James Johnson,35,Los Angeles,Artist,8,6
+Linda Taylor,27,Chicago,Chef,2,1
+Karen Williams,24,New York,Entrepreneur,8,1
+Joseph Anderson,30,Denver,Doctor,13,6
+Charles Miller,26,Chicago,Artist,13,4
+Richard Taylor,38,Boston,Designer,1,4
+Richard Davis,35,San Francisco,Chef,6,6
+Robert Smith,24,San Francisco,Engineer,19,7
+Patricia Anderson,22,Miami,Artist,16,9
+Linda Garcia,22,Houston,Designer,8,10
+Thomas Thomas,24,Atlanta,Athlete,1,5
+Mary Jackson,39,Houston,Engineer,16,9
+Linda Brown,31,New York,Nurse,9,4
+Joseph Jones,24,Los Angeles,Doctor,13,10
+Joseph Moore,29,Seattle,Actor,11,2
+Sarah Lee,35,Miami,Actor,13,3
+David Thomas,39,Denver,Teacher,10,1
+Karen Moore,36,New York,Chef,4,6
+Susan Jackson,23,Chicago,Athlete,6,6
+Joseph Garcia,31,Boston,Chef,7,1
+Jessica Thomas,23,Chicago,Actor,5,3
+William Davis,38,New York,Nurse,11,5
+William Moore,29,Boston,Teacher,13,3
+Jessica Davis,22,San Francisco,Designer,19,10
+William Thomas,30,Chicago,Engineer,10,3
+John Hernandez,32,Houston,Doctor,10,10
+Linda Martinez,37,New York,Athlete,11,3
+David Lopez,28,New York,Engineer,7,5
+Sarah Williams,31,Houston,Doctor,18,5
+Robert Jones,24,Seattle,Entrepreneur,4,4
+Linda Wilson,39,Seattle,Artist,2,1
+Robert Miller,34,Los Angeles,Doctor,14,5
+John Anderson,28,Atlanta,Doctor,13,10
+Susan Lopez,25,Houston,Chef,12,5
+Sarah Thomas,34,San Francisco,Nurse,7,4
+Susan Johnson,22,Denver,Entrepreneur,2,6
+Michael Anderson,29,Denver,Nurse,13,10
+Richard Martin,35,San Francisco,Chef,14,4
+James Martin,37,Chicago,Chef,17,7
+Richard Taylor,35,Denver,Chef,9,7
+James Gonzalez,33,San Francisco,Engineer,17,2
+Elizabeth Wilson,36,Houston,Nurse,8,3
+Susan Jackson,23,Miami,Nurse,2,1
+Sarah Lee,23,Los Angeles,Athlete,13,8
+Linda Taylor,38,Atlanta,Teacher,3,9
+Linda Martinez,31,Chicago,Entrepreneur,16,4
+Susan Taylor,27,San Francisco,Engineer,6,6
+James Wilson,36,Houston,Entrepreneur,19,9
+David Wilson,32,Chicago,Engineer,7,6
+Jennifer Thomas,26,New York,Nurse,10,9
+Robert Lee,22,Atlanta,Artist,9,4
+Sarah Smith,29,Houston,Teacher,2,8
+Richard Martin,33,Seattle,Nurse,15,9
+Charles Smith,33,Miami,Actor,5,4
+John Anderson,26,Chicago,Chef,4,5
+Robert Thomas,28,Seattle,Athlete,4,8
+Jennifer Johnson,25,Boston,Engineer,18,10
+William Wilson,27,Boston,Entrepreneur,4,6
+David Miller,34,Denver,Chef,17,7
+Joseph Lopez,36,Atlanta,Artist,12,3
+David Wilson,24,Los Angeles,Doctor,17,7
+William Anderson,29,Boston,Artist,10,8
+William Williams,37,Los Angeles,Engineer,1,10
+Jessica Smith,34,Chicago,Chef,18,6
+Sarah Johnson,39,Chicago,Engineer,18,10
+Barbara Davis,31,San Francisco,Designer,14,9
+John Johnson,38,Atlanta,Athlete,15,6
+James Davis,26,Miami,Athlete,12,9
+Michael Smith,30,New York,Doctor,4,4
+Karen Jones,33,Houston,Entrepreneur,3,8
+Linda Jones,22,Boston,Teacher,12,4
+Jessica Brown,22,Miami,Engineer,7,2
+Charles Miller,36,San Francisco,Doctor,11,10
+Joseph Martinez,23,Houston,Teacher,1,9
+Barbara Garcia,37,Atlanta,Doctor,6,5
+Karen Lee,29,Houston,Teacher,15,4
+Patricia Garcia,34,Seattle,Designer,15,2
+Elizabeth Brown,22,Seattle,Actor,19,1
+Charles Smith,37,New York,Nurse,11,7
+Elizabeth Martin,28,Houston,Nurse,2,6
+Richard Wilson,26,Atlanta,Entrepreneur,14,2
+Michael Williams,24,Miami,Teacher,2,8
+Charles Davis,33,New York,Actor,4,4
+Patricia Hernandez,37,Los Angeles,Teacher,17,8
+Karen Brown,26,San Francisco,Entrepreneur,3,7
+Charles Johnson,35,Houston,Engineer,13,5
+Barbara Jackson,26,Chicago,Doctor,9,10
+Susan Gonzalez,36,Boston,Actor,7,10
+John Moore,38,Denver,Chef,15,8
+David Smith,35,Houston,Entrepreneur,11,9
+Susan Taylor,26,Los Angeles,Nurse,2,5
+Patricia Anderson,33,Houston,Engineer,15,10
+Barbara Thomas,37,Atlanta,Entrepreneur,14,5
+Robert Anderson,37,Seattle,Athlete,11,2
+Jennifer Moore,28,Miami,Engineer,3,5
+William Lee,25,Miami,Designer,17,3
+Sarah Taylor,22,Chicago,Designer,12,7
+Joseph Anderson,26,San Francisco,Nurse,15,10
+Charles Martinez,31,Chicago,Actor,16,5
+David Davis,26,San Francisco,Doctor,5,8
+John Martinez,25,Seattle,Designer,6,1
+Joseph Davis,23,Atlanta,Athlete,19,3
+Joseph Martin,31,Boston,Teacher,5,3
+Karen Wilson,22,Denver,Actor,3,9
+David Smith,26,San Francisco,Teacher,1,5
+Jessica Lopez,34,Denver,Entrepreneur,6,9
+Jennifer Taylor,25,Miami,Engineer,15,9
+Michael Gonzalez,37,Miami,Athlete,2,1
+William Lopez,37,Seattle,Engineer,3,2
+William Lee,23,Los Angeles,Artist,17,5
+William Jackson,38,Denver,Nurse,12,4
+James Moore,33,San Francisco,Doctor,18,10
+Michael Williams,39,Denver,Doctor,15,9
+Linda Anderson,24,Atlanta,Doctor,12,7
+Jessica Jackson,22,Los Angeles,Artist,16,6
+Linda Taylor,22,Seattle,Doctor,8,7
+Jessica Thomas,32,Los Angeles,Designer,14,1
+James Williams,26,New York,Actor,17,1
+Elizabeth Davis,33,Denver,Chef,8,8
+Richard Davis,24,Denver,Teacher,15,2
+Elizabeth Martin,22,Miami,Teacher,14,10
+Barbara Taylor,22,Seattle,Doctor,18,9
+Sarah Moore,29,Denver,Nurse,7,7
+Barbara Anderson,31,Chicago,Chef,3,6
+Sarah Lopez,32,Chicago,Artist,12,1
+Barbara Thomas,33,Atlanta,Actor,3,1
+William Hernandez,34,Denver,Artist,14,2
+William Davis,33,San Francisco,Chef,15,6
+Patricia Miller,35,Los Angeles,Actor,14,6
+David Brown,23,Miami,Entrepreneur,7,2
+Sarah Garcia,39,Seattle,Engineer,17,1
+Michael Miller,24,San Francisco,Athlete,12,10
+Jessica Martinez,38,Los Angeles,Actor,4,5
+Charles Moore,29,Denver,Engineer,9,5
+Karen Hernandez,31,San Francisco,Nurse,6,2
+Patricia Miller,23,New York,Doctor,16,6
+Elizabeth Davis,30,San Francisco,Teacher,2,9
+Barbara Garcia,28,Chicago,Artist,8,2
+Elizabeth Smith,25,Denver,Nurse,11,10
+Sarah Jones,39,Boston,Doctor,13,2
+William Johnson,34,San Francisco,Chef,17,3
+Mary Jackson,32,Seattle,Engineer,8,7
+Elizabeth Jones,25,New York,Designer,18,6
+Jessica Brown,25,Denver,Entrepreneur,18,8
+James Martin,31,San Francisco,Entrepreneur,14,8
+Elizabeth Taylor,26,Houston,Actor,15,6
+Jessica Thomas,30,New York,Engineer,6,10
+David Garcia,24,Boston,Nurse,11,3
+Mary Martinez,38,Houston,Designer,13,3
+Jessica Brown,24,New York,Doctor,1,1
+John Wilson,37,Miami,Actor,6,7
+Jessica Williams,25,Seattle,Artist,9,5
+Charles Johnson,39,Los Angeles,Entrepreneur,8,4
+Robert Jones,38,New York,Athlete,11,10
+Charles Hernandez,28,Boston,Entrepreneur,19,4
+John Davis,26,Atlanta,Athlete,9,4
+Patricia Jackson,33,Los Angeles,Artist,17,6
+Susan Lee,38,Denver,Designer,12,8
+Karen Lee,34,New York,Actor,14,8
+Linda Moore,24,Los Angeles,Athlete,15,5
+Richard Thomas,30,San Francisco,Designer,16,6
+Joseph Hernandez,38,New York,Artist,1,4
+Charles Anderson,38,Houston,Nurse,10,9
+Elizabeth Martin,37,Boston,Artist,8,8
+Karen Johnson,34,Chicago,Teacher,18,10
+Karen Brown,38,Chicago,Doctor,1,10
+Michael Miller,25,Boston,Chef,2,1
+William Williams,33,Atlanta,Doctor,1,2
+Jennifer Davis,30,Boston,Artist,1,9
+Jennifer Jackson,33,San Francisco,Nurse,9,8
+John Garcia,30,Boston,Actor,13,3
+James Anderson,28,Boston,Doctor,1,8
+Joseph Lee,35,Los Angeles,Actor,13,1
+Jessica Hernandez,36,Denver,Doctor,7,10
+Mary Davis,37,Chicago,Chef,2,4
+Elizabeth Hernandez,26,Atlanta,Entrepreneur,6,3
+Joseph Williams,24,Los Angeles,Engineer,7,6
+Linda Martinez,33,Chicago,Artist,14,7
+Charles Miller,25,Denver,Nurse,18,4
+Susan Brown,37,Boston,Artist,15,7
+Sarah Davis,28,Denver,Chef,2,9
+Robert Martinez,34,Chicago,Designer,10,2
+Robert Williams,31,Miami,Doctor,12,3
+Mary Garcia,28,New York,Teacher,17,5
+Elizabeth Lee,35,New York,Entrepreneur,8,3
+Charles Hernandez,26,Houston,Engineer,11,8
+Joseph Brown,24,San Francisco,Doctor,3,10
+Joseph Hernandez,32,Denver,Artist,6,8
+Richard Martinez,32,Boston,Nurse,9,8
+Thomas Jackson,39,Denver,Chef,6,9
+Jessica Thomas,36,Boston,Actor,9,4
+John Lee,33,Miami,Designer,7,5
+Mary Anderson,30,Miami,Engineer,9,5
+David Lee,31,San Francisco,Athlete,18,8
+William Smith,33,Atlanta,Engineer,12,7
+John Davis,38,Chicago,Nurse,8,9
+Charles Martin,27,Houston,Teacher,8,8
+James Martinez,28,Miami,Chef,18,2
+Charles Johnson,35,Los Angeles,Engineer,15,10
+Jennifer Taylor,34,New York,Athlete,7,4
+Thomas Thomas,29,Boston,Athlete,11,6
+William Garcia,31,Seattle,Doctor,16,2
+Charles Anderson,30,New York,Chef,4,7
+Jessica Williams,39,Miami,Teacher,6,3
+Jessica Gonzalez,23,Miami,Artist,3,3
+Susan Lopez,26,Los Angeles,Entrepreneur,9,2
+David Brown,26,Los Angeles,Entrepreneur,10,8
+Jennifer Lopez,27,Seattle,Actor,14,6
+Susan Taylor,29,New York,Chef,11,1
+Elizabeth Wilson,37,San Francisco,Actor,18,1
+Sarah Johnson,34,Seattle,Actor,12,7
+Joseph Williams,22,New York,Designer,12,8
+David Martinez,38,Miami,Entrepreneur,13,5
+David Brown,28,New York,Artist,13,5
+Richard Moore,34,Boston,Engineer,19,4
+James Jackson,25,San Francisco,Artist,19,6
+Joseph Anderson,25,Miami,Teacher,14,6
+Mary Miller,27,Denver,Athlete,4,3
+Thomas Gonzalez,33,Miami,Engineer,13,9
+Karen Taylor,28,New York,Teacher,8,7
+Joseph Johnson,31,Chicago,Engineer,19,1
+Michael Martinez,28,Denver,Teacher,12,7
+Sarah Jones,24,Houston,Designer,18,5
+Elizabeth Thomas,34,Miami,Designer,6,5
+Jessica Brown,34,Seattle,Actor,18,2
+James Lee,39,Atlanta,Chef,19,4
+Linda Garcia,29,Seattle,Engineer,5,6
+Elizabeth Jackson,30,Seattle,Nurse,9,10
+James Jackson,28,Atlanta,Actor,3,7
+Susan Williams,22,Miami,Artist,10,5
+Linda Brown,24,Houston,Designer,19,9
+Joseph Brown,34,Chicago,Entrepreneur,3,3
+Robert Taylor,38,Denver,Designer,15,1
+Elizabeth Moore,22,Miami,Entrepreneur,1,4
+William Anderson,27,Boston,Engineer,7,9
+Jessica Taylor,27,Houston,Engineer,12,4
+Linda Thomas,33,Houston,Teacher,17,2
+Sarah Jones,34,New York,Entrepreneur,5,10
+Richard Miller,34,Denver,Athlete,4,5
+Karen Moore,36,Seattle,Doctor,12,3
+Robert Williams,37,Chicago,Artist,18,9
+William Anderson,32,Boston,Actor,17,4
+David Moore,26,Denver,Teacher,19,6
+William Smith,25,San Francisco,Engineer,9,2
+Elizabeth Hernandez,24,New York,Artist,4,6
+Charles Martin,39,Atlanta,Actor,2,3
+Jessica Jones,36,Boston,Chef,4,9
+Joseph Jackson,30,Denver,Nurse,2,2
+Jessica Gonzalez,38,Atlanta,Doctor,15,9
+David Jackson,35,Boston,Entrepreneur,2,5
+Sarah Wilson,36,Boston,Entrepreneur,4,8
+Joseph Lopez,22,Chicago,Teacher,6,2
+Michael Davis,24,Houston,Doctor,7,6
+Charles Wilson,37,Boston,Chef,10,3
+Linda Anderson,32,Chicago,Designer,19,10
+Mary Lopez,33,Denver,Nurse,19,5
+Jessica Wilson,31,San Francisco,Nurse,12,8
+Richard Jones,37,Miami,Artist,3,10
+Jessica Johnson,29,Miami,Engineer,13,1
+Robert Moore,27,Houston,Designer,18,5
+Charles Lopez,33,Chicago,Engineer,8,3
+Patricia Thomas,29,San Francisco,Teacher,15,4
+Patricia Moore,25,New York,Engineer,1,2
+Joseph Smith,29,Denver,Doctor,3,9
+Robert Anderson,39,Boston,Doctor,8,3
+Robert Williams,26,Boston,Artist,4,2
+Jessica Martinez,30,Denver,Teacher,16,10
+David Lee,25,Denver,Artist,10,9
+Richard Williams,38,Chicago,Chef,12,7
+David Jackson,30,Boston,Actor,14,6
+Richard Lopez,22,Miami,Engineer,14,1
+Jessica Jackson,34,Houston,Athlete,2,5
+Mary Lee,37,Miami,Athlete,5,3
+John Davis,34,Atlanta,Entrepreneur,5,1
+Elizabeth Davis,35,Los Angeles,Engineer,6,4
+John Anderson,24,San Francisco,Doctor,13,2
+Patricia Brown,27,Atlanta,Engineer,9,2
+Joseph Garcia,39,Los Angeles,Artist,15,3
+Elizabeth Smith,26,Denver,Designer,14,8
+Mary Lopez,36,Miami,Teacher,7,8
+Mary Hernandez,23,New York,Engineer,2,7
+Barbara Gonzalez,31,Houston,Actor,7,6
+Susan Jones,39,Boston,Engineer,6,9
+Linda Moore,34,Seattle,Doctor,17,4
+Susan Martin,26,Seattle,Designer,2,1
+Jennifer Garcia,22,New York,Doctor,3,8
+Jennifer Williams,22,Los Angeles,Teacher,5,7
+Karen Wilson,39,Miami,Athlete,5,7
+Karen Davis,36,Seattle,Chef,1,3
+Jessica Martin,38,Denver,Chef,8,4
+Robert Davis,32,Miami,Designer,12,10
+Joseph Martinez,38,San Francisco,Doctor,4,9
+Joseph Martinez,34,Miami,Chef,13,6
+James Thomas,22,Atlanta,Chef,15,5
+Elizabeth Jackson,23,Houston,Teacher,11,3
+Jennifer Williams,30,New York,Actor,10,9
+Joseph Gonzalez,24,Miami,Artist,3,5
+Charles Hernandez,22,Miami,Teacher,14,5
+Susan Martinez,37,Los Angeles,Entrepreneur,16,4
+Joseph Hernandez,27,San Francisco,Entrepreneur,10,4
+Michael Wilson,38,Miami,Designer,10,1
+Jessica Brown,26,Seattle,Teacher,12,7
+Linda Wilson,26,Miami,Doctor,9,9
+Charles Gonzalez,27,Boston,Athlete,1,3
+Charles Hernandez,24,Miami,Athlete,5,2
+Elizabeth Smith,26,Denver,Athlete,8,3
+Richard Martinez,26,Atlanta,Artist,11,1
+James Martin,31,Houston,Entrepreneur,12,6
+Mary Lee,31,Boston,Designer,1,7
+Jessica Hernandez,38,San Francisco,Chef,11,2
+Linda Lee,35,Denver,Nurse,5,8
+Barbara Davis,30,Atlanta,Designer,15,6
+Michael Lee,35,Houston,Doctor,5,4
+William Jones,22,Houston,Engineer,12,5
+Patricia Johnson,34,Atlanta,Entrepreneur,5,8
+Elizabeth Thomas,34,Denver,Chef,17,3
+Mary Martin,25,San Francisco,Teacher,17,3
+Barbara Jones,22,San Francisco,Chef,12,4
+John Hernandez,38,Los Angeles,Artist,15,1
+David Anderson,29,San Francisco,Nurse,15,9
+Jennifer Miller,23,Atlanta,Artist,6,8
+Robert Jackson,29,Miami,Nurse,12,8
+Barbara Moore,28,Atlanta,Doctor,18,10
+Thomas Martinez,23,Atlanta,Chef,14,6
+Jennifer Martinez,24,Boston,Actor,2,7
+Jessica Hernandez,39,New York,Designer,9,6
+David Brown,33,Seattle,Nurse,5,9
+Joseph Williams,22,Miami,Designer,1,3
+Robert Davis,33,Chicago,Actor,3,3
+Richard Jackson,26,New York,Athlete,6,3
+Barbara Williams,38,Houston,Nurse,5,10
+Richard Smith,37,Denver,Actor,5,3
+William Jackson,36,Seattle,Chef,1,9
+Patricia Thomas,36,Seattle,Entrepreneur,17,4
+Barbara Martinez,26,Boston,Teacher,19,7
+Charles Wilson,35,Houston,Doctor,14,9
+Barbara Brown,23,Chicago,Actor,12,7
+Linda Taylor,32,Miami,Athlete,10,9
+James Lee,28,Atlanta,Artist,18,3
+Sarah Lopez,27,Miami,Doctor,11,4
+Karen Davis,23,Boston,Entrepreneur,2,8
+John Thomas,27,Seattle,Doctor,18,6
+Elizabeth Anderson,39,Miami,Designer,7,5
+Patricia Jones,23,San Francisco,Nurse,15,4
+Mary Johnson,39,Denver,Actor,11,8
+Elizabeth Taylor,36,Atlanta,Athlete,18,1
+Patricia Brown,23,Houston,Artist,12,9
+Linda Jackson,27,San Francisco,Teacher,6,1
+Robert Wilson,22,San Francisco,Engineer,13,8
+Joseph Gonzalez,36,San Francisco,Artist,16,4
+Sarah Anderson,31,Chicago,Artist,18,9
+Charles Jones,38,Atlanta,Entrepreneur,10,5
+Susan Brown,26,Chicago,Nurse,8,3
+Jessica Lee,25,Chicago,Doctor,18,9
+Susan Martinez,31,Denver,Artist,1,9
+Mary Gonzalez,38,San Francisco,Athlete,8,4
+Michael Thomas,31,Chicago,Chef,6,4
+Joseph Davis,38,Denver,Actor,5,8
+Barbara Brown,26,New York,Teacher,15,2
+Barbara Jackson,23,Denver,Teacher,15,9
+Barbara Johnson,27,New York,Artist,2,6
+Richard Martinez,23,Los Angeles,Athlete,1,9
+Michael Brown,34,New York,Actor,11,8
+Joseph Williams,32,New York,Actor,10,7
+Michael Lee,32,Boston,Athlete,18,1
+James Johnson,37,Chicago,Doctor,18,3
+David Davis,32,Miami,Actor,17,2
+Robert Martin,36,Los Angeles,Athlete,8,5
+Michael Williams,37,Chicago,Athlete,15,5
+Sarah Miller,32,New York,Teacher,8,5
+Charles Miller,37,Miami,Athlete,17,4
+Linda Lopez,29,Denver,Artist,12,5
+Robert Lee,25,San Francisco,Designer,8,3
+James Martinez,29,Atlanta,Nurse,14,1
+Robert Jones,25,New York,Entrepreneur,4,5
+Sarah Martinez,24,Seattle,Teacher,1,9
+Jennifer Brown,24,Seattle,Designer,1,9
+James Jones,39,San Francisco,Doctor,19,4
+James Gonzalez,26,San Francisco,Engineer,16,3
+Linda Martin,39,New York,Doctor,14,1
+David Smith,31,New York,Artist,16,2
+Jennifer Martinez,27,Denver,Athlete,5,8
+Mary Jones,22,Denver,Artist,9,1
+Susan Moore,26,Boston,Doctor,2,8
+Patricia Williams,30,New York,Nurse,18,7
+Jessica Thomas,33,New York,Designer,6,8
+Barbara Moore,35,Denver,Doctor,9,6
+Charles Brown,23,Houston,Actor,1,9
+Joseph Moore,38,Denver,Athlete,9,3
+Linda Lee,35,Houston,Artist,16,10
+Mary Moore,34,New York,Teacher,13,4
+Elizabeth Thomas,30,Denver,Actor,9,6
+James Johnson,36,Boston,Teacher,13,8
+Jessica Wilson,36,Chicago,Actor,9,5
+Susan Brown,32,Los Angeles,Doctor,11,3
+Jessica Thomas,37,Los Angeles,Doctor,4,6
+John Williams,38,Denver,Teacher,2,4
+David Lee,25,Chicago,Athlete,6,9
+Robert Williams,22,Miami,Teacher,14,3
+Robert Martinez,29,Miami,Engineer,4,4
+Karen Martin,38,Seattle,Nurse,6,7
+Sarah Lopez,24,Denver,Actor,19,7
+Richard Lee,36,Houston,Engineer,6,4
+Thomas Hernandez,36,Atlanta,Actor,2,6
+Joseph Moore,35,Houston,Chef,18,3
+Karen Anderson,35,Boston,Athlete,13,6
+Patricia Brown,23,Los Angeles,Engineer,9,2
+Sarah Miller,34,Atlanta,Actor,19,8
+Susan Thomas,35,Boston,Entrepreneur,13,2
+Linda Anderson,28,San Francisco,Actor,11,7
+David Thomas,24,Seattle,Teacher,1,9
+Richard Anderson,36,Miami,Teacher,7,1
+Patricia Lopez,35,Miami,Chef,15,8
+Susan Lopez,32,Houston,Designer,1,7
+William Gonzalez,36,Los Angeles,Actor,12,6
+Robert Taylor,34,New York,Teacher,7,6
+John Williams,39,Los Angeles,Nurse,15,6
+John Williams,27,Boston,Athlete,19,9
+Susan Brown,24,Boston,Actor,1,2
+Barbara Jones,36,Boston,Artist,17,1
+Sarah Johnson,26,Denver,Athlete,17,6
+Charles Jackson,31,San Francisco,Teacher,3,10
+Sarah Lopez,28,New York,Chef,12,8
+Patricia Anderson,38,New York,Entrepreneur,6,3
+Barbara Anderson,28,Chicago,Entrepreneur,11,10
+Mary Hernandez,33,Los Angeles,Teacher,3,1
+Karen Hernandez,38,San Francisco,Teacher,8,9
+Barbara Brown,34,Boston,Doctor,14,1
+Charles Moore,25,Atlanta,Athlete,14,3
+Michael Jones,31,Seattle,Chef,10,8
+Jessica Davis,24,Los Angeles,Athlete,2,3
+Patricia Gonzalez,30,Denver,Doctor,14,4
+Sarah Gonzalez,34,New York,Teacher,9,8
+Patricia Martinez,39,Miami,Athlete,3,1
+Charles Davis,36,Miami,Actor,8,6
+Susan Jackson,25,Seattle,Athlete,16,1
+Karen Lee,36,San Francisco,Artist,2,1
+Sarah Smith,23,Houston,Athlete,6,8
+Karen Martinez,36,New York,Engineer,12,4
+James Garcia,29,Los Angeles,Designer,5,1
+William Hernandez,29,Houston,Teacher,2,10
+David Gonzalez,38,Denver,Actor,16,7
+James Garcia,33,Seattle,Engineer,5,5
+Robert Martin,31,New York,Artist,15,5
+Richard Williams,30,Chicago,Actor,12,1
+Robert Smith,26,Atlanta,Actor,4,10
+John Moore,27,New York,Teacher,15,6
+Michael Wilson,23,Miami,Engineer,11,9
+Susan Thomas,34,Seattle,Actor,16,9
+David Garcia,27,Chicago,Designer,6,8
+Barbara Hernandez,26,Boston,Doctor,14,5
+David Martin,22,Los Angeles,Entrepreneur,18,1
+Karen Williams,27,Houston,Artist,12,9
+Mary Jones,27,Chicago,Artist,11,1
+Jennifer Lee,37,Seattle,Engineer,13,8
+Mary Williams,25,Miami,Actor,11,5
+William Thomas,32,Seattle,Entrepreneur,16,3
+Susan Taylor,30,Boston,Engineer,15,7
+Karen Thomas,24,Denver,Doctor,15,7
+Susan Martinez,29,Atlanta,Doctor,4,9
+Michael Moore,26,Boston,Chef,11,7
+Patricia Gonzalez,25,Chicago,Designer,19,3
+Susan Brown,27,Los Angeles,Chef,15,1
+Elizabeth Martin,23,Denver,Teacher,4,8
+Jessica Moore,32,Atlanta,Chef,13,3
+Elizabeth Johnson,25,New York,Designer,19,8
+Linda Wilson,36,Los Angeles,Chef,2,8
+Karen Johnson,27,Boston,Actor,14,5
+James Miller,38,Miami,Nurse,4,1
+Elizabeth Miller,27,Los Angeles,Chef,16,10
+Robert Martinez,23,Atlanta,Engineer,14,7
+Elizabeth Lopez,36,Seattle,Designer,15,10
+Patricia Smith,32,Seattle,Athlete,3,5
+Jessica Anderson,29,Seattle,Artist,8,8
+Jennifer Jones,34,Boston,Teacher,16,9
+Richard Jackson,33,Atlanta,Designer,10,7
+Linda Moore,26,New York,Engineer,4,7
+Sarah Gonzalez,27,Houston,Doctor,18,1
+John Wilson,25,San Francisco,Entrepreneur,2,4
+Mary Anderson,22,San Francisco,Doctor,17,2
+James Thomas,38,Miami,Actor,13,2
+John Lopez,33,Atlanta,Entrepreneur,4,2
+Charles Anderson,36,Denver,Engineer,11,4
+Charles Wilson,22,Boston,Engineer,7,1
+Susan Hernandez,35,Boston,Actor,12,4
+Patricia Wilson,27,Chicago,Teacher,10,2
+James Lopez,26,Seattle,Chef,7,5
+Jennifer Lee,32,Boston,Teacher,13,3
+Joseph Gonzalez,25,Los Angeles,Engineer,7,8
+John Anderson,34,Seattle,Nurse,17,4
+Patricia Davis,32,Houston,Engineer,10,1
+Susan Martin,24,Miami,Actor,10,1
+Richard Moore,22,Los Angeles,Athlete,4,10
+John Wilson,27,Los Angeles,Athlete,4,3
+Elizabeth Lopez,39,Houston,Designer,7,9
+Linda Lopez,31,Chicago,Doctor,1,7
+Jennifer Williams,26,Boston,Chef,12,2
+Thomas Brown,31,Chicago,Teacher,13,9
+Thomas Moore,33,Boston,Athlete,10,10
+Michael Gonzalez,23,Atlanta,Chef,15,2
+Barbara Jones,34,Atlanta,Teacher,13,3
+Linda Brown,29,Los Angeles,Doctor,9,10
+Robert Martinez,23,Los Angeles,Engineer,9,2
+Michael Garcia,22,New York,Actor,15,3
+Karen Jones,26,Houston,Artist,10,6
+John Garcia,30,San Francisco,Artist,10,9
+Jessica Thomas,38,Atlanta,Chef,8,9
+Charles Martin,30,Houston,Nurse,16,7
+Joseph Martin,32,Los Angeles,Nurse,17,3
+Karen Lopez,36,Chicago,Entrepreneur,5,4
+David Jones,27,Los Angeles,Entrepreneur,4,6
+Joseph Williams,24,Chicago,Entrepreneur,18,5
+Jessica Thomas,38,Boston,Artist,19,2
+Elizabeth Martinez,26,San Francisco,Engineer,4,6
+Charles Johnson,33,Denver,Doctor,7,3
+Barbara Moore,39,Denver,Chef,10,8
+John Hernandez,35,Denver,Athlete,18,2
+Joseph Thomas,32,Boston,Nurse,19,1
+Mary Johnson,30,Los Angeles,Designer,4,9
+Barbara Hernandez,23,New York,Teacher,10,3
+John Williams,33,Los Angeles,Doctor,1,1
+Karen Lee,24,Atlanta,Actor,18,7
+Thomas Wilson,24,Denver,Doctor,5,10
+Joseph Martin,22,Los Angeles,Chef,15,5
+Sarah Johnson,29,Seattle,Engineer,17,5
+Joseph Martin,29,Seattle,Entrepreneur,3,1
+Michael Lopez,32,Atlanta,Athlete,12,9
+Karen Taylor,30,Boston,Designer,2,7
+Thomas Jones,26,New York,Artist,1,8
+Mary Thomas,35,Houston,Engineer,17,9
+Patricia Lopez,24,Boston,Doctor,16,6
+John Moore,26,Boston,Artist,5,5
+Jennifer Johnson,26,Los Angeles,Teacher,15,6
+Linda Thomas,35,Denver,Entrepreneur,3,2
+Joseph Moore,25,Miami,Engineer,7,4
+Thomas Lee,34,Seattle,Designer,11,3
+Jennifer Gonzalez,31,Denver,Engineer,10,7
+Barbara Hernandez,39,Chicago,Entrepreneur,9,9
+Richard Anderson,29,Boston,Chef,14,5
+David Lee,29,Chicago,Designer,13,6
+Mary Lopez,28,Chicago,Designer,2,10
+John Lopez,29,Houston,Entrepreneur,3,2
+Patricia Jackson,35,Houston,Engineer,7,3
+Richard Hernandez,27,Houston,Nurse,18,3
+William Lee,22,San Francisco,Chef,3,9
+Robert Lopez,36,Chicago,Teacher,10,7
+John Martin,22,Los Angeles,Actor,7,8
+Robert Gonzalez,38,Chicago,Chef,9,10
+Elizabeth Wilson,22,Boston,Actor,17,9
+Robert Lee,36,Houston,Teacher,11,6
+John Hernandez,23,Boston,Designer,7,4
+Sarah Wilson,35,Houston,Doctor,14,1
+David Jones,29,San Francisco,Entrepreneur,19,8
+Thomas Williams,29,Los Angeles,Designer,4,7
+Susan Moore,28,Atlanta,Designer,6,2
+Barbara Smith,27,Houston,Entrepreneur,10,8
+Barbara Hernandez,27,Miami,Artist,7,5
+Jennifer Miller,24,San Francisco,Entrepreneur,13,7
+David Taylor,28,Seattle,Athlete,14,4
+Michael Davis,29,Seattle,Doctor,4,5
+Robert Jones,31,Miami,Teacher,8,8
+John Hernandez,36,San Francisco,Engineer,5,1
+Patricia Moore,36,Los Angeles,Engineer,1,1
+Sarah Moore,22,Chicago,Actor,4,4
+Mary Lopez,28,Houston,Nurse,3,3
+Karen Jones,25,New York,Chef,9,10
+Karen Wilson,27,Boston,Athlete,8,2
+Robert Garcia,22,Atlanta,Artist,1,3
+Jennifer Lee,26,Seattle,Nurse,6,1
+Jennifer Thomas,22,Boston,Doctor,9,1
+Mary Anderson,25,Atlanta,Chef,7,6
+Barbara Davis,23,San Francisco,Nurse,4,5
+Joseph Lee,31,Atlanta,Chef,13,8
+Elizabeth Thomas,26,Boston,Nurse,17,2
+Linda Jackson,31,Seattle,Designer,2,4
+Linda Hernandez,22,Chicago,Athlete,5,8
+Jessica Miller,27,Houston,Artist,12,6
+Barbara Martin,34,Atlanta,Designer,8,1
+Joseph Thomas,36,Seattle,Entrepreneur,6,4
+Elizabeth Wilson,25,Miami,Engineer,8,1
+Thomas Moore,34,San Francisco,Chef,18,2
+Susan Garcia,36,Atlanta,Doctor,3,5
+Michael Lee,29,Chicago,Nurse,12,8
+Robert Martinez,26,Boston,Athlete,3,8
+Mary Taylor,36,Atlanta,Nurse,6,3
+Barbara Jackson,25,Houston,Athlete,2,4
+Patricia Moore,33,San Francisco,Athlete,12,10
+Patricia Hernandez,34,Seattle,Teacher,2,6
+John Garcia,23,Miami,Engineer,6,10
+William Thomas,25,Atlanta,Designer,17,3
+Thomas Jones,25,Boston,Teacher,3,2
+Susan Williams,32,Houston,Teacher,2,6
+Linda Thomas,26,Boston,Artist,8,5
+Barbara Smith,32,Atlanta,Artist,12,10
+Susan Johnson,31,Los Angeles,Teacher,4,5
+Richard Moore,29,Seattle,Doctor,5,10
+Barbara Davis,27,Miami,Chef,13,5
+Richard Williams,27,Seattle,Engineer,15,10
+Barbara Davis,29,Denver,Chef,16,5
+James Lopez,36,Chicago,Artist,10,3
+Patricia Lopez,35,Denver,Teacher,16,7
+Robert Jones,32,New York,Athlete,12,6
+Mary Hernandez,33,San Francisco,Entrepreneur,17,4
+Jessica Jones,34,Miami,Actor,16,2
+Jessica Thomas,29,San Francisco,Engineer,12,9
+Karen Smith,39,Houston,Engineer,8,1
+John Smith,22,Los Angeles,Chef,3,4
+William Miller,36,Boston,Nurse,16,1
+Robert Jackson,29,San Francisco,Chef,13,6
+Karen Moore,32,Chicago,Nurse,19,4
+Susan Brown,33,Houston,Actor,8,5
+Elizabeth Davis,33,Miami,Entrepreneur,5,5
+Elizabeth Brown,25,Houston,Nurse,8,9
+Mary Davis,37,Chicago,Designer,12,1
+Susan Lee,25,Boston,Doctor,1,2
+Joseph Williams,26,Boston,Athlete,6,6
+Patricia Taylor,26,Los Angeles,Athlete,18,5
+Karen Jackson,29,San Francisco,Nurse,8,7
+James Moore,31,Seattle,Chef,7,3
+Charles Davis,38,San Francisco,Engineer,1,3
+Robert Hernandez,30,Seattle,Chef,16,10
+Susan Smith,35,Boston,Teacher,12,2
+Karen Gonzalez,29,Denver,Teacher,6,3
+Linda Martin,30,Denver,Athlete,2,10
+Susan Garcia,32,Boston,Athlete,14,1
+John Moore,22,Denver,Athlete,4,5
+Barbara Williams,35,New York,Engineer,1,5
+Thomas Jackson,26,Atlanta,Engineer,18,7
+Thomas Moore,35,Denver,Athlete,13,4
+Sarah Smith,25,Seattle,Engineer,2,3
+Richard Taylor,22,Los Angeles,Entrepreneur,9,1
+Mary Wilson,29,Los Angeles,Nurse,2,8
+Barbara Martinez,36,Miami,Actor,9,3
+James Gonzalez,36,Atlanta,Chef,1,2
+John Gonzalez,30,Chicago,Entrepreneur,11,4
+Linda Brown,30,Seattle,Chef,3,3
+Charles Lopez,31,New York,Designer,4,1
+Robert Johnson,30,Seattle,Athlete,18,3
+Barbara Jackson,24,Boston,Athlete,6,2
+David Garcia,32,Atlanta,Designer,3,8
+Joseph Taylor,27,Boston,Doctor,11,6
+Jennifer Jones,23,Los Angeles,Teacher,15,9
+John Thomas,28,New York,Entrepreneur,5,8
+Mary Hernandez,39,Los Angeles,Chef,10,10
+Michael Johnson,23,Houston,Teacher,12,3
+Michael Johnson,38,Miami,Athlete,15,5
+David Hernandez,32,Denver,Athlete,17,7
+Thomas Wilson,33,Denver,Chef,10,5
+Sarah Taylor,28,Denver,Doctor,6,8
+William Johnson,27,Seattle,Chef,18,5
+Michael Hernandez,22,Seattle,Actor,13,1
+Barbara Johnson,38,Miami,Artist,3,5
+David Martinez,32,San Francisco,Doctor,10,4
+Patricia Gonzalez,39,Atlanta,Designer,14,6
+Susan Wilson,38,Boston,Entrepreneur,6,3
+Joseph Wilson,28,San Francisco,Actor,3,5
+David Garcia,38,Seattle,Doctor,16,2
+Jessica Taylor,30,Denver,Actor,7,6
+Barbara Moore,38,Chicago,Entrepreneur,14,6
+William Williams,29,Atlanta,Entrepreneur,9,5
+Susan Williams,38,New York,Entrepreneur,15,6
+Susan Lee,28,San Francisco,Designer,3,7
+Jennifer Jackson,22,Los Angeles,Engineer,2,5
+Elizabeth Lopez,34,Houston,Artist,2,1
+Patricia Williams,38,Boston,Teacher,3,8
+David Hernandez,34,Los Angeles,Entrepreneur,18,4
+Elizabeth Thomas,37,Los Angeles,Designer,14,9
+Karen Anderson,29,Chicago,Actor,18,10
+Jennifer Thomas,39,Atlanta,Entrepreneur,10,6
+Barbara Thomas,22,Houston,Chef,2,1
+Mary Gonzalez,35,Atlanta,Athlete,1,3
+Karen Anderson,36,San Francisco,Engineer,4,3
+William Johnson,39,Miami,Artist,14,10
+John Wilson,23,Denver,Designer,1,4
+Barbara Moore,38,San Francisco,Artist,14,6
+Jennifer Smith,39,Atlanta,Chef,16,7
+Robert Lee,27,San Francisco,Designer,14,10
+Joseph Johnson,25,Los Angeles,Nurse,3,4
+Robert Williams,22,San Francisco,Actor,3,6
+Linda Gonzalez,29,San Francisco,Doctor,9,1
+Barbara Wilson,28,Atlanta,Nurse,6,8
+Charles Johnson,24,Los Angeles,Teacher,13,7
+Karen Jones,31,Houston,Engineer,2,9
+Joseph Gonzalez,31,New York,Entrepreneur,8,3
+Barbara Thomas,35,Los Angeles,Nurse,2,2
+John Martin,23,New York,Chef,4,1
+Robert Moore,22,Atlanta,Teacher,15,3
+Barbara Wilson,39,Los Angeles,Nurse,4,5
+David Martinez,28,Chicago,Athlete,13,2
+Linda Brown,29,Miami,Doctor,12,3
+James Garcia,22,Denver,Teacher,13,4
+Jessica Moore,24,Chicago,Artist,14,7
+Richard Jackson,29,Denver,Artist,18,3
+Patricia Martinez,36,Chicago,Doctor,6,9
+William Thomas,26,Atlanta,Artist,11,8
+Michael Lee,24,Denver,Doctor,2,4
+Elizabeth Taylor,22,Boston,Designer,19,1
+Michael Brown,36,San Francisco,Doctor,19,1
+Robert Williams,29,Miami,Actor,5,1
+Joseph Garcia,23,Boston,Artist,19,1
+Joseph Williams,24,Chicago,Entrepreneur,2,8
+David Gonzalez,35,Chicago,Actor,10,3
+John Jackson,35,Boston,Designer,2,6
+Sarah Hernandez,32,Boston,Nurse,11,3
+Elizabeth Garcia,37,New York,Chef,18,5
+Jennifer Gonzalez,25,Seattle,Engineer,15,7
+Thomas Davis,26,Miami,Doctor,9,2
+Patricia Miller,35,San Francisco,Artist,19,6
+Robert Davis,37,Seattle,Actor,9,6
+Jessica Smith,39,Boston,Designer,3,3
+Barbara Jackson,28,Boston,Athlete,9,6
+Charles Gonzalez,31,New York,Designer,14,10
+Joseph Jackson,28,Miami,Teacher,19,10
+Robert Lee,22,Miami,Designer,7,5
+John Williams,37,Houston,Athlete,16,2
+Elizabeth Wilson,25,Los Angeles,Nurse,16,9
+Jessica Moore,39,Seattle,Actor,1,8
+Susan Anderson,23,Los Angeles,Actor,4,3
+Charles Williams,22,Denver,Teacher,4,8
+Robert Lopez,36,Chicago,Entrepreneur,7,9
+John Thomas,26,Atlanta,Engineer,8,3
+Joseph Moore,32,Atlanta,Entrepreneur,17,3
+Barbara Jones,31,Miami,Doctor,5,2
+Sarah Martin,23,San Francisco,Chef,7,8
+Jennifer Jones,24,Los Angeles,Doctor,4,10
+Susan Moore,33,Houston,Teacher,6,1
+Mary Brown,26,San Francisco,Athlete,7,8
+Thomas Jones,26,Denver,Artist,18,7
+Elizabeth Garcia,27,Atlanta,Artist,5,7
+Jennifer Lopez,30,Seattle,Artist,3,3
+Linda Gonzalez,23,Boston,Artist,7,1
+Thomas Hernandez,33,Seattle,Entrepreneur,14,4
+John Martinez,24,Boston,Chef,7,9
+Michael Jackson,33,Seattle,Nurse,5,5
+William Jones,38,Los Angeles,Doctor,5,1
+Elizabeth Lee,31,Atlanta,Doctor,2,5
+Sarah Williams,35,Atlanta,Designer,6,8
+Thomas Garcia,38,San Francisco,Teacher,15,8
+Charles Martin,39,Seattle,Teacher,10,5
+Robert Garcia,38,Chicago,Athlete,7,9
+Karen Lee,35,Houston,Doctor,5,1
+David Martin,30,Seattle,Artist,1,4
+Mary Smith,29,Seattle,Entrepreneur,13,3
+John Johnson,23,Los Angeles,Athlete,18,2

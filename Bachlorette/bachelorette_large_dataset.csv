@@ -1,0 +1,1001 @@
+Name,Age,Occupation,Hometown,Number of Roses,Final Position
+Contestant_1,33,Chef,"Seattle, WA",2,45
+Contestant_2,24,Entrepreneur,"San Diego, CA",1,82
+Contestant_3,23,Nurse,"Denver, CO",5,89
+Contestant_4,34,Chef,"New York, NY",8,2
+Contestant_5,27,Chef,"Austin, TX",6,43
+Contestant_6,26,Photographer,"Portland, OR",13,1
+Contestant_7,26,Artist,"Los Angeles, CA",5,98
+Contestant_8,25,Artist,"Austin, TX",2,85
+Contestant_9,34,Artist,"Portland, OR",3,49
+Contestant_10,24,Lawyer,"Portland, OR",2,95
+Contestant_11,33,Engineer,"Portland, OR",3,94
+Contestant_12,34,Lawyer,"Portland, OR",7,40
+Contestant_13,31,Chef,"Portland, OR",8,14
+Contestant_14,24,Engineer,"Chicago, IL",9,27
+Contestant_15,32,Nurse,"Denver, CO",9,68
+Contestant_16,29,Doctor,"Boston, MA",9,31
+Contestant_17,23,Lawyer,"Chicago, IL",7,54
+Contestant_18,23,Lawyer,"Denver, CO",2,63
+Contestant_19,24,Photographer,"Los Angeles, CA",1,8
+Contestant_20,26,Artist,"Miami, FL",2,19
+Contestant_21,26,Designer,"Chicago, IL",6,92
+Contestant_22,31,Nurse,"Los Angeles, CA",9,36
+Contestant_23,32,Designer,"Austin, TX",2,12
+Contestant_24,23,Artist,"Los Angeles, CA",10,6
+Contestant_25,31,Engineer,"Seattle, WA",10,30
+Contestant_26,26,Lawyer,"Austin, TX",13,67
+Contestant_27,34,Artist,"San Diego, CA",6,53
+Contestant_28,33,Lawyer,"Los Angeles, CA",14,90
+Contestant_29,34,Chef,"New York, NY",7,48
+Contestant_30,31,Doctor,"Chicago, IL",1,59
+Contestant_31,29,Artist,"Los Angeles, CA",5,96
+Contestant_32,26,Teacher,"Portland, OR",7,11
+Contestant_33,30,Nurse,"Los Angeles, CA",7,75
+Contestant_34,32,Doctor,"New York, NY",13,13
+Contestant_35,27,Artist,"Boston, MA",2,65
+Contestant_36,35,Teacher,"Boston, MA",12,18
+Contestant_37,23,Teacher,"New York, NY",15,82
+Contestant_38,35,Nurse,"New York, NY",9,51
+Contestant_39,35,Artist,"Austin, TX",15,10
+Contestant_40,25,Doctor,"Boston, MA",4,76
+Contestant_41,34,Photographer,"Chicago, IL",10,73
+Contestant_42,29,Engineer,"Miami, FL",9,8
+Contestant_43,28,Teacher,"Seattle, WA",3,56
+Contestant_44,27,Designer,"Chicago, IL",11,85
+Contestant_45,25,Artist,"Seattle, WA",7,17
+Contestant_46,26,Photographer,"Chicago, IL",3,31
+Contestant_47,35,Photographer,"Los Angeles, CA",3,38
+Contestant_48,28,Photographer,"Miami, FL",5,34
+Contestant_49,24,Chef,"Portland, OR",5,41
+Contestant_50,24,Doctor,"Denver, CO",5,51
+Contestant_51,29,Teacher,"Portland, OR",8,90
+Contestant_52,24,Artist,"Boston, MA",3,95
+Contestant_53,28,Photographer,"Miami, FL",2,42
+Contestant_54,28,Engineer,"Chicago, IL",3,41
+Contestant_55,32,Engineer,"Seattle, WA",7,58
+Contestant_56,27,Entrepreneur,"Miami, FL",5,35
+Contestant_57,35,Photographer,"Los Angeles, CA",7,30
+Contestant_58,23,Engineer,"Chicago, IL",5,10
+Contestant_59,34,Designer,"Los Angeles, CA",8,26
+Contestant_60,30,Teacher,"Miami, FL",13,18
+Contestant_61,31,Doctor,"Austin, TX",2,100
+Contestant_62,24,Doctor,"Los Angeles, CA",6,99
+Contestant_63,29,Designer,"Denver, CO",5,75
+Contestant_64,24,Artist,"Denver, CO",4,14
+Contestant_65,31,Engineer,"Boston, MA",12,20
+Contestant_66,27,Lawyer,"Denver, CO",11,14
+Contestant_67,33,Engineer,"Los Angeles, CA",8,22
+Contestant_68,32,Nurse,"New York, NY",10,58
+Contestant_69,28,Entrepreneur,"Boston, MA",10,60
+Contestant_70,32,Designer,"Boston, MA",4,41
+Contestant_71,26,Designer,"Los Angeles, CA",8,53
+Contestant_72,34,Designer,"Portland, OR",2,16
+Contestant_73,24,Lawyer,"Miami, FL",3,69
+Contestant_74,23,Nurse,"Austin, TX",5,46
+Contestant_75,33,Entrepreneur,"Denver, CO",1,99
+Contestant_76,26,Photographer,"Austin, TX",7,27
+Contestant_77,35,Photographer,"Denver, CO",6,58
+Contestant_78,27,Artist,"San Diego, CA",14,40
+Contestant_79,24,Designer,"New York, NY",10,60
+Contestant_80,26,Entrepreneur,"Portland, OR",7,34
+Contestant_81,24,Artist,"Miami, FL",13,16
+Contestant_82,29,Designer,"Los Angeles, CA",14,12
+Contestant_83,27,Designer,"Austin, TX",6,21
+Contestant_84,30,Teacher,"Austin, TX",8,88
+Contestant_85,33,Designer,"Los Angeles, CA",6,39
+Contestant_86,28,Engineer,"Miami, FL",7,91
+Contestant_87,25,Lawyer,"Miami, FL",14,90
+Contestant_88,28,Lawyer,"Boston, MA",14,78
+Contestant_89,28,Artist,"San Diego, CA",14,6
+Contestant_90,26,Engineer,"Denver, CO",11,28
+Contestant_91,33,Doctor,"New York, NY",10,42
+Contestant_92,27,Lawyer,"Boston, MA",3,19
+Contestant_93,34,Doctor,"Los Angeles, CA",5,12
+Contestant_94,33,Nurse,"Boston, MA",6,92
+Contestant_95,33,Engineer,"Chicago, IL",10,32
+Contestant_96,24,Doctor,"Los Angeles, CA",12,46
+Contestant_97,32,Teacher,"San Diego, CA",4,51
+Contestant_98,33,Entrepreneur,"Denver, CO",8,66
+Contestant_99,25,Photographer,"Miami, FL",6,7
+Contestant_100,31,Designer,"Chicago, IL",3,87
+Contestant_101,34,Photographer,"Austin, TX",7,39
+Contestant_102,26,Artist,"Denver, CO",6,34
+Contestant_103,25,Teacher,"Los Angeles, CA",5,23
+Contestant_104,30,Lawyer,"Portland, OR",12,4
+Contestant_105,29,Artist,"New York, NY",12,52
+Contestant_106,27,Artist,"Chicago, IL",11,58
+Contestant_107,33,Photographer,"New York, NY",8,72
+Contestant_108,34,Engineer,"San Diego, CA",10,96
+Contestant_109,31,Lawyer,"Boston, MA",13,71
+Contestant_110,26,Artist,"Chicago, IL",4,32
+Contestant_111,33,Designer,"New York, NY",6,13
+Contestant_112,28,Lawyer,"Austin, TX",7,60
+Contestant_113,35,Entrepreneur,"Seattle, WA",5,14
+Contestant_114,35,Engineer,"Los Angeles, CA",14,18
+Contestant_115,23,Nurse,"Los Angeles, CA",13,16
+Contestant_116,26,Lawyer,"Denver, CO",7,2
+Contestant_117,23,Doctor,"San Diego, CA",6,8
+Contestant_118,35,Artist,"Chicago, IL",2,100
+Contestant_119,28,Doctor,"San Diego, CA",15,29
+Contestant_120,29,Engineer,"New York, NY",10,17
+Contestant_121,27,Teacher,"Boston, MA",4,26
+Contestant_122,24,Doctor,"Los Angeles, CA",10,52
+Contestant_123,26,Artist,"Los Angeles, CA",9,48
+Contestant_124,32,Designer,"Boston, MA",3,88
+Contestant_125,34,Designer,"Austin, TX",11,81
+Contestant_126,28,Artist,"San Diego, CA",13,83
+Contestant_127,26,Photographer,"New York, NY",9,11
+Contestant_128,33,Engineer,"Portland, OR",1,75
+Contestant_129,30,Photographer,"Los Angeles, CA",12,76
+Contestant_130,29,Artist,"Denver, CO",8,34
+Contestant_131,33,Entrepreneur,"Los Angeles, CA",12,10
+Contestant_132,30,Artist,"Miami, FL",4,3
+Contestant_133,25,Nurse,"Seattle, WA",8,9
+Contestant_134,27,Nurse,"Austin, TX",13,26
+Contestant_135,25,Photographer,"Chicago, IL",5,83
+Contestant_136,26,Photographer,"New York, NY",14,57
+Contestant_137,34,Engineer,"Boston, MA",12,17
+Contestant_138,31,Designer,"Portland, OR",2,12
+Contestant_139,31,Teacher,"Denver, CO",14,43
+Contestant_140,27,Entrepreneur,"Portland, OR",14,16
+Contestant_141,34,Chef,"Austin, TX",13,6
+Contestant_142,32,Designer,"Miami, FL",13,60
+Contestant_143,29,Artist,"Miami, FL",7,7
+Contestant_144,32,Teacher,"Boston, MA",11,22
+Contestant_145,29,Engineer,"Seattle, WA",8,74
+Contestant_146,28,Lawyer,"San Diego, CA",3,56
+Contestant_147,26,Designer,"Miami, FL",11,93
+Contestant_148,25,Designer,"Boston, MA",5,51
+Contestant_149,31,Teacher,"Seattle, WA",4,64
+Contestant_150,30,Artist,"Austin, TX",5,4
+Contestant_151,24,Designer,"New York, NY",11,49
+Contestant_152,35,Teacher,"Austin, TX",3,88
+Contestant_153,23,Doctor,"Boston, MA",12,55
+Contestant_154,24,Photographer,"New York, NY",7,23
+Contestant_155,25,Nurse,"Boston, MA",13,46
+Contestant_156,33,Photographer,"Austin, TX",7,28
+Contestant_157,25,Artist,"Los Angeles, CA",2,24
+Contestant_158,35,Doctor,"Los Angeles, CA",8,36
+Contestant_159,33,Designer,"Austin, TX",10,36
+Contestant_160,29,Entrepreneur,"Portland, OR",8,58
+Contestant_161,32,Photographer,"Portland, OR",10,20
+Contestant_162,24,Engineer,"Miami, FL",7,5
+Contestant_163,29,Photographer,"Miami, FL",9,79
+Contestant_164,29,Chef,"New York, NY",9,80
+Contestant_165,32,Entrepreneur,"New York, NY",15,79
+Contestant_166,30,Chef,"Los Angeles, CA",15,32
+Contestant_167,31,Chef,"Portland, OR",14,83
+Contestant_168,27,Engineer,"Seattle, WA",12,38
+Contestant_169,31,Doctor,"Austin, TX",7,64
+Contestant_170,23,Chef,"Seattle, WA",9,53
+Contestant_171,33,Entrepreneur,"New York, NY",1,71
+Contestant_172,34,Photographer,"Seattle, WA",13,62
+Contestant_173,24,Artist,"Boston, MA",6,8
+Contestant_174,33,Entrepreneur,"Chicago, IL",12,12
+Contestant_175,31,Nurse,"Los Angeles, CA",15,36
+Contestant_176,35,Teacher,"Portland, OR",13,50
+Contestant_177,27,Photographer,"San Diego, CA",9,18
+Contestant_178,35,Engineer,"Los Angeles, CA",10,54
+Contestant_179,33,Chef,"Boston, MA",11,26
+Contestant_180,28,Artist,"Portland, OR",15,83
+Contestant_181,24,Chef,"New York, NY",2,68
+Contestant_182,27,Engineer,"San Diego, CA",2,32
+Contestant_183,29,Entrepreneur,"Austin, TX",13,81
+Contestant_184,25,Nurse,"Austin, TX",4,70
+Contestant_185,30,Teacher,"Miami, FL",11,3
+Contestant_186,23,Nurse,"Denver, CO",11,49
+Contestant_187,34,Photographer,"Boston, MA",6,92
+Contestant_188,34,Entrepreneur,"Portland, OR",3,46
+Contestant_189,27,Teacher,"Denver, CO",11,62
+Contestant_190,31,Lawyer,"Denver, CO",10,70
+Contestant_191,35,Nurse,"San Diego, CA",1,63
+Contestant_192,25,Chef,"Austin, TX",10,45
+Contestant_193,31,Designer,"New York, NY",11,73
+Contestant_194,24,Photographer,"Los Angeles, CA",11,65
+Contestant_195,33,Photographer,"Austin, TX",11,42
+Contestant_196,27,Teacher,"Boston, MA",7,50
+Contestant_197,33,Lawyer,"Boston, MA",13,35
+Contestant_198,31,Artist,"Portland, OR",6,24
+Contestant_199,32,Nurse,"Los Angeles, CA",13,4
+Contestant_200,26,Doctor,"New York, NY",7,41
+Contestant_201,25,Artist,"Portland, OR",2,77
+Contestant_202,28,Photographer,"San Diego, CA",1,29
+Contestant_203,35,Photographer,"New York, NY",2,4
+Contestant_204,25,Engineer,"New York, NY",5,100
+Contestant_205,31,Teacher,"Denver, CO",4,36
+Contestant_206,35,Designer,"Portland, OR",9,8
+Contestant_207,31,Lawyer,"Chicago, IL",12,61
+Contestant_208,23,Doctor,"Austin, TX",9,68
+Contestant_209,32,Artist,"Portland, OR",9,46
+Contestant_210,28,Nurse,"New York, NY",10,99
+Contestant_211,30,Teacher,"Miami, FL",12,75
+Contestant_212,23,Nurse,"New York, NY",10,30
+Contestant_213,24,Entrepreneur,"New York, NY",4,21
+Contestant_214,28,Engineer,"Los Angeles, CA",8,13
+Contestant_215,35,Lawyer,"Seattle, WA",6,32
+Contestant_216,27,Engineer,"Los Angeles, CA",7,85
+Contestant_217,26,Photographer,"Portland, OR",8,31
+Contestant_218,23,Engineer,"Miami, FL",13,35
+Contestant_219,26,Doctor,"Austin, TX",11,69
+Contestant_220,32,Photographer,"Miami, FL",10,95
+Contestant_221,24,Artist,"Seattle, WA",12,8
+Contestant_222,24,Nurse,"Portland, OR",9,98
+Contestant_223,34,Artist,"Miami, FL",3,29
+Contestant_224,30,Entrepreneur,"New York, NY",6,74
+Contestant_225,24,Photographer,"Miami, FL",1,50
+Contestant_226,35,Photographer,"San Diego, CA",8,46
+Contestant_227,31,Lawyer,"Portland, OR",2,23
+Contestant_228,35,Photographer,"Austin, TX",5,23
+Contestant_229,25,Nurse,"Portland, OR",7,31
+Contestant_230,25,Doctor,"New York, NY",15,76
+Contestant_231,33,Entrepreneur,"San Diego, CA",2,41
+Contestant_232,30,Lawyer,"San Diego, CA",2,95
+Contestant_233,31,Designer,"New York, NY",14,90
+Contestant_234,25,Nurse,"New York, NY",12,46
+Contestant_235,27,Doctor,"San Diego, CA",3,76
+Contestant_236,31,Engineer,"San Diego, CA",6,4
+Contestant_237,32,Artist,"Los Angeles, CA",5,91
+Contestant_238,29,Entrepreneur,"San Diego, CA",6,90
+Contestant_239,26,Chef,"Chicago, IL",8,46
+Contestant_240,31,Nurse,"Chicago, IL",13,73
+Contestant_241,35,Artist,"Austin, TX",4,73
+Contestant_242,34,Teacher,"Chicago, IL",9,19
+Contestant_243,34,Artist,"San Diego, CA",8,73
+Contestant_244,26,Artist,"Miami, FL",6,25
+Contestant_245,34,Designer,"Seattle, WA",8,64
+Contestant_246,27,Designer,"San Diego, CA",2,70
+Contestant_247,29,Photographer,"Denver, CO",8,40
+Contestant_248,33,Doctor,"San Diego, CA",12,23
+Contestant_249,33,Photographer,"Chicago, IL",12,63
+Contestant_250,28,Nurse,"Boston, MA",8,5
+Contestant_251,30,Photographer,"Portland, OR",6,12
+Contestant_252,31,Chef,"Miami, FL",2,8
+Contestant_253,30,Chef,"Miami, FL",5,30
+Contestant_254,24,Nurse,"Boston, MA",1,78
+Contestant_255,26,Nurse,"Seattle, WA",13,29
+Contestant_256,26,Entrepreneur,"Denver, CO",12,3
+Contestant_257,24,Photographer,"Miami, FL",2,68
+Contestant_258,28,Chef,"Boston, MA",1,62
+Contestant_259,23,Lawyer,"Austin, TX",14,1
+Contestant_260,32,Lawyer,"Chicago, IL",6,43
+Contestant_261,31,Designer,"New York, NY",11,79
+Contestant_262,26,Entrepreneur,"Boston, MA",2,26
+Contestant_263,32,Lawyer,"Denver, CO",11,17
+Contestant_264,26,Entrepreneur,"Boston, MA",13,44
+Contestant_265,23,Teacher,"Boston, MA",3,92
+Contestant_266,24,Chef,"Seattle, WA",15,23
+Contestant_267,34,Photographer,"Los Angeles, CA",12,42
+Contestant_268,33,Entrepreneur,"San Diego, CA",4,8
+Contestant_269,23,Entrepreneur,"New York, NY",9,3
+Contestant_270,26,Doctor,"Los Angeles, CA",3,19
+Contestant_271,24,Photographer,"Los Angeles, CA",9,76
+Contestant_272,23,Teacher,"Los Angeles, CA",3,91
+Contestant_273,28,Doctor,"Denver, CO",6,19
+Contestant_274,24,Nurse,"New York, NY",9,100
+Contestant_275,31,Designer,"Los Angeles, CA",7,15
+Contestant_276,26,Chef,"Portland, OR",8,68
+Contestant_277,27,Engineer,"Portland, OR",4,47
+Contestant_278,33,Photographer,"Austin, TX",13,10
+Contestant_279,30,Engineer,"Los Angeles, CA",7,48
+Contestant_280,26,Nurse,"Seattle, WA",11,91
+Contestant_281,31,Photographer,"Boston, MA",3,85
+Contestant_282,25,Teacher,"Austin, TX",3,51
+Contestant_283,34,Doctor,"Miami, FL",11,76
+Contestant_284,32,Entrepreneur,"Boston, MA",11,13
+Contestant_285,32,Doctor,"Seattle, WA",7,44
+Contestant_286,30,Engineer,"New York, NY",7,39
+Contestant_287,26,Photographer,"Austin, TX",1,42
+Contestant_288,35,Artist,"Chicago, IL",12,18
+Contestant_289,30,Chef,"Miami, FL",10,21
+Contestant_290,35,Designer,"Denver, CO",15,94
+Contestant_291,29,Entrepreneur,"San Diego, CA",4,56
+Contestant_292,26,Engineer,"Denver, CO",8,82
+Contestant_293,24,Chef,"Seattle, WA",10,63
+Contestant_294,24,Nurse,"New York, NY",7,84
+Contestant_295,33,Entrepreneur,"Los Angeles, CA",7,41
+Contestant_296,29,Chef,"San Diego, CA",1,23
+Contestant_297,28,Photographer,"Los Angeles, CA",12,91
+Contestant_298,29,Nurse,"Seattle, WA",4,72
+Contestant_299,29,Teacher,"New York, NY",4,89
+Contestant_300,30,Designer,"Boston, MA",5,79
+Contestant_301,34,Engineer,"Portland, OR",13,46
+Contestant_302,23,Lawyer,"Boston, MA",12,29
+Contestant_303,33,Artist,"Boston, MA",13,86
+Contestant_304,33,Lawyer,"Miami, FL",13,76
+Contestant_305,33,Engineer,"Boston, MA",2,23
+Contestant_306,24,Entrepreneur,"Chicago, IL",10,49
+Contestant_307,23,Engineer,"Austin, TX",2,40
+Contestant_308,29,Engineer,"Denver, CO",13,94
+Contestant_309,34,Photographer,"Portland, OR",14,89
+Contestant_310,28,Doctor,"Boston, MA",9,38
+Contestant_311,35,Artist,"Seattle, WA",3,17
+Contestant_312,24,Teacher,"Seattle, WA",6,23
+Contestant_313,26,Teacher,"San Diego, CA",6,94
+Contestant_314,26,Chef,"Los Angeles, CA",4,1
+Contestant_315,26,Teacher,"Chicago, IL",8,90
+Contestant_316,31,Artist,"Chicago, IL",2,74
+Contestant_317,30,Chef,"Miami, FL",5,51
+Contestant_318,25,Chef,"Boston, MA",11,99
+Contestant_319,29,Entrepreneur,"San Diego, CA",14,73
+Contestant_320,25,Doctor,"Boston, MA",8,5
+Contestant_321,27,Lawyer,"Miami, FL",9,24
+Contestant_322,30,Nurse,"Portland, OR",11,78
+Contestant_323,26,Entrepreneur,"Chicago, IL",6,41
+Contestant_324,24,Designer,"Austin, TX",10,79
+Contestant_325,30,Doctor,"Denver, CO",7,29
+Contestant_326,35,Doctor,"New York, NY",10,82
+Contestant_327,31,Doctor,"Miami, FL",7,73
+Contestant_328,24,Engineer,"Los Angeles, CA",10,14
+Contestant_329,23,Designer,"Denver, CO",2,64
+Contestant_330,33,Entrepreneur,"Los Angeles, CA",6,19
+Contestant_331,31,Designer,"Chicago, IL",6,43
+Contestant_332,23,Lawyer,"Denver, CO",14,96
+Contestant_333,24,Photographer,"Chicago, IL",8,10
+Contestant_334,35,Designer,"San Diego, CA",10,31
+Contestant_335,26,Doctor,"Portland, OR",3,45
+Contestant_336,25,Lawyer,"Seattle, WA",14,41
+Contestant_337,29,Photographer,"Los Angeles, CA",11,22
+Contestant_338,30,Artist,"Portland, OR",12,82
+Contestant_339,30,Photographer,"Miami, FL",13,12
+Contestant_340,26,Artist,"Austin, TX",5,91
+Contestant_341,29,Teacher,"Denver, CO",15,86
+Contestant_342,23,Photographer,"Portland, OR",10,82
+Contestant_343,25,Artist,"Boston, MA",10,94
+Contestant_344,29,Nurse,"Portland, OR",2,43
+Contestant_345,23,Doctor,"Miami, FL",11,58
+Contestant_346,29,Engineer,"San Diego, CA",3,2
+Contestant_347,27,Photographer,"San Diego, CA",6,34
+Contestant_348,35,Chef,"Austin, TX",2,27
+Contestant_349,35,Designer,"New York, NY",4,32
+Contestant_350,30,Artist,"Austin, TX",5,89
+Contestant_351,27,Entrepreneur,"Denver, CO",2,9
+Contestant_352,29,Artist,"Los Angeles, CA",3,45
+Contestant_353,34,Photographer,"Los Angeles, CA",6,33
+Contestant_354,34,Artist,"Portland, OR",12,14
+Contestant_355,35,Lawyer,"Los Angeles, CA",3,93
+Contestant_356,31,Entrepreneur,"New York, NY",9,1
+Contestant_357,33,Photographer,"Seattle, WA",7,7
+Contestant_358,34,Engineer,"San Diego, CA",7,50
+Contestant_359,30,Lawyer,"Portland, OR",10,57
+Contestant_360,25,Entrepreneur,"Denver, CO",3,94
+Contestant_361,26,Designer,"Portland, OR",10,54
+Contestant_362,27,Chef,"Chicago, IL",7,22
+Contestant_363,26,Designer,"Chicago, IL",7,53
+Contestant_364,23,Artist,"Chicago, IL",3,64
+Contestant_365,32,Artist,"New York, NY",8,49
+Contestant_366,34,Teacher,"Los Angeles, CA",11,45
+Contestant_367,31,Entrepreneur,"Boston, MA",9,70
+Contestant_368,23,Artist,"Portland, OR",12,49
+Contestant_369,34,Teacher,"Boston, MA",15,13
+Contestant_370,28,Designer,"New York, NY",11,62
+Contestant_371,23,Teacher,"San Diego, CA",15,74
+Contestant_372,23,Designer,"Portland, OR",3,84
+Contestant_373,32,Photographer,"New York, NY",9,98
+Contestant_374,30,Artist,"Los Angeles, CA",3,88
+Contestant_375,31,Lawyer,"San Diego, CA",8,29
+Contestant_376,31,Designer,"Los Angeles, CA",5,21
+Contestant_377,25,Chef,"New York, NY",3,58
+Contestant_378,23,Lawyer,"Denver, CO",3,10
+Contestant_379,31,Lawyer,"San Diego, CA",6,5
+Contestant_380,24,Designer,"Miami, FL",14,38
+Contestant_381,25,Artist,"San Diego, CA",8,3
+Contestant_382,24,Doctor,"Los Angeles, CA",10,41
+Contestant_383,32,Engineer,"Portland, OR",1,34
+Contestant_384,24,Teacher,"Portland, OR",14,14
+Contestant_385,33,Artist,"Portland, OR",6,10
+Contestant_386,26,Photographer,"Boston, MA",1,44
+Contestant_387,29,Teacher,"San Diego, CA",8,22
+Contestant_388,24,Designer,"Miami, FL",3,49
+Contestant_389,32,Chef,"Boston, MA",4,21
+Contestant_390,26,Doctor,"Chicago, IL",14,94
+Contestant_391,32,Engineer,"Los Angeles, CA",7,10
+Contestant_392,32,Artist,"Los Angeles, CA",9,71
+Contestant_393,23,Chef,"Austin, TX",9,12
+Contestant_394,32,Entrepreneur,"Denver, CO",11,44
+Contestant_395,24,Doctor,"San Diego, CA",8,77
+Contestant_396,29,Lawyer,"Miami, FL",7,79
+Contestant_397,33,Doctor,"Chicago, IL",11,62
+Contestant_398,32,Nurse,"San Diego, CA",8,91
+Contestant_399,32,Chef,"Boston, MA",7,4
+Contestant_400,31,Nurse,"Miami, FL",12,56
+Contestant_401,28,Nurse,"San Diego, CA",14,84
+Contestant_402,27,Artist,"San Diego, CA",8,22
+Contestant_403,26,Doctor,"Seattle, WA",8,78
+Contestant_404,33,Artist,"Chicago, IL",3,56
+Contestant_405,34,Photographer,"San Diego, CA",2,21
+Contestant_406,28,Artist,"Boston, MA",10,7
+Contestant_407,26,Chef,"New York, NY",1,13
+Contestant_408,27,Engineer,"Portland, OR",13,43
+Contestant_409,29,Photographer,"San Diego, CA",13,27
+Contestant_410,25,Engineer,"Denver, CO",4,25
+Contestant_411,33,Doctor,"New York, NY",5,53
+Contestant_412,33,Lawyer,"Seattle, WA",1,90
+Contestant_413,27,Entrepreneur,"Chicago, IL",5,71
+Contestant_414,30,Nurse,"San Diego, CA",4,93
+Contestant_415,28,Chef,"Austin, TX",9,94
+Contestant_416,35,Engineer,"Seattle, WA",5,70
+Contestant_417,24,Entrepreneur,"Chicago, IL",3,34
+Contestant_418,23,Teacher,"Boston, MA",13,85
+Contestant_419,30,Artist,"Los Angeles, CA",8,37
+Contestant_420,32,Nurse,"Denver, CO",10,39
+Contestant_421,32,Engineer,"New York, NY",12,31
+Contestant_422,24,Photographer,"Denver, CO",13,13
+Contestant_423,24,Chef,"Seattle, WA",13,7
+Contestant_424,31,Artist,"Denver, CO",8,51
+Contestant_425,26,Designer,"Portland, OR",9,74
+Contestant_426,31,Entrepreneur,"San Diego, CA",9,71
+Contestant_427,27,Chef,"Boston, MA",2,63
+Contestant_428,25,Engineer,"Chicago, IL",10,20
+Contestant_429,28,Lawyer,"New York, NY",2,7
+Contestant_430,24,Photographer,"Portland, OR",5,47
+Contestant_431,26,Teacher,"Seattle, WA",13,1
+Contestant_432,28,Designer,"Portland, OR",9,55
+Contestant_433,27,Nurse,"Los Angeles, CA",14,12
+Contestant_434,25,Chef,"Boston, MA",6,38
+Contestant_435,30,Designer,"Portland, OR",9,85
+Contestant_436,31,Lawyer,"Denver, CO",14,81
+Contestant_437,34,Engineer,"Los Angeles, CA",13,77
+Contestant_438,27,Photographer,"New York, NY",1,62
+Contestant_439,32,Artist,"Boston, MA",13,26
+Contestant_440,35,Entrepreneur,"Portland, OR",12,13
+Contestant_441,33,Engineer,"Los Angeles, CA",8,4
+Contestant_442,31,Doctor,"Portland, OR",9,27
+Contestant_443,23,Teacher,"Los Angeles, CA",4,22
+Contestant_444,33,Teacher,"Miami, FL",7,82
+Contestant_445,31,Artist,"San Diego, CA",2,38
+Contestant_446,27,Photographer,"Boston, MA",12,11
+Contestant_447,33,Engineer,"Seattle, WA",14,61
+Contestant_448,24,Engineer,"Seattle, WA",11,15
+Contestant_449,25,Lawyer,"Miami, FL",13,40
+Contestant_450,27,Nurse,"Portland, OR",4,51
+Contestant_451,24,Doctor,"Miami, FL",5,61
+Contestant_452,24,Entrepreneur,"Seattle, WA",14,63
+Contestant_453,34,Photographer,"Miami, FL",1,85
+Contestant_454,31,Chef,"Miami, FL",8,34
+Contestant_455,25,Nurse,"Seattle, WA",5,12
+Contestant_456,27,Entrepreneur,"Boston, MA",6,83
+Contestant_457,27,Designer,"Los Angeles, CA",14,70
+Contestant_458,32,Doctor,"Boston, MA",14,50
+Contestant_459,26,Entrepreneur,"Los Angeles, CA",2,24
+Contestant_460,34,Engineer,"Portland, OR",8,48
+Contestant_461,28,Photographer,"Miami, FL",14,49
+Contestant_462,26,Designer,"Miami, FL",2,48
+Contestant_463,33,Entrepreneur,"Austin, TX",13,24
+Contestant_464,33,Artist,"San Diego, CA",13,58
+Contestant_465,27,Teacher,"Portland, OR",4,6
+Contestant_466,31,Chef,"Denver, CO",4,34
+Contestant_467,30,Lawyer,"Denver, CO",13,57
+Contestant_468,27,Photographer,"Los Angeles, CA",12,60
+Contestant_469,23,Photographer,"New York, NY",10,34
+Contestant_470,24,Lawyer,"Miami, FL",12,29
+Contestant_471,33,Chef,"Chicago, IL",6,35
+Contestant_472,29,Engineer,"Miami, FL",14,73
+Contestant_473,27,Chef,"Austin, TX",12,8
+Contestant_474,23,Nurse,"Los Angeles, CA",10,20
+Contestant_475,23,Chef,"Boston, MA",11,97
+Contestant_476,28,Teacher,"Miami, FL",7,90
+Contestant_477,35,Entrepreneur,"Boston, MA",3,86
+Contestant_478,25,Artist,"Seattle, WA",10,13
+Contestant_479,33,Lawyer,"Seattle, WA",3,11
+Contestant_480,27,Engineer,"Portland, OR",13,86
+Contestant_481,25,Photographer,"Miami, FL",4,45
+Contestant_482,34,Engineer,"Portland, OR",14,70
+Contestant_483,30,Lawyer,"Miami, FL",4,53
+Contestant_484,31,Designer,"New York, NY",13,97
+Contestant_485,34,Teacher,"Austin, TX",1,76
+Contestant_486,29,Teacher,"San Diego, CA",10,30
+Contestant_487,31,Chef,"San Diego, CA",6,71
+Contestant_488,23,Lawyer,"Seattle, WA",9,8
+Contestant_489,24,Doctor,"Seattle, WA",5,50
+Contestant_490,24,Designer,"Chicago, IL",10,67
+Contestant_491,34,Lawyer,"Portland, OR",9,54
+Contestant_492,25,Engineer,"Seattle, WA",3,69
+Contestant_493,31,Nurse,"Seattle, WA",6,88
+Contestant_494,23,Lawyer,"Chicago, IL",12,61
+Contestant_495,28,Designer,"Austin, TX",5,74
+Contestant_496,32,Lawyer,"Denver, CO",5,31
+Contestant_497,31,Lawyer,"Los Angeles, CA",10,61
+Contestant_498,25,Chef,"Boston, MA",5,39
+Contestant_499,29,Doctor,"Austin, TX",14,11
+Contestant_500,25,Designer,"New York, NY",9,51
+Contestant_501,23,Teacher,"Chicago, IL",15,92
+Contestant_502,27,Artist,"Portland, OR",11,5
+Contestant_503,28,Doctor,"New York, NY",14,65
+Contestant_504,35,Doctor,"Denver, CO",2,74
+Contestant_505,23,Nurse,"Boston, MA",3,67
+Contestant_506,28,Artist,"Boston, MA",13,74
+Contestant_507,26,Doctor,"Seattle, WA",13,87
+Contestant_508,33,Engineer,"Miami, FL",7,80
+Contestant_509,26,Teacher,"Los Angeles, CA",15,19
+Contestant_510,33,Doctor,"Miami, FL",1,16
+Contestant_511,24,Teacher,"Chicago, IL",5,97
+Contestant_512,28,Chef,"Austin, TX",14,58
+Contestant_513,35,Lawyer,"San Diego, CA",11,23
+Contestant_514,31,Designer,"Seattle, WA",3,22
+Contestant_515,29,Chef,"Portland, OR",12,28
+Contestant_516,32,Teacher,"Chicago, IL",14,25
+Contestant_517,34,Doctor,"New York, NY",3,17
+Contestant_518,25,Artist,"Denver, CO",4,6
+Contestant_519,26,Teacher,"New York, NY",3,55
+Contestant_520,25,Doctor,"Chicago, IL",12,11
+Contestant_521,35,Entrepreneur,"Denver, CO",6,88
+Contestant_522,35,Nurse,"Boston, MA",14,56
+Contestant_523,25,Engineer,"New York, NY",4,26
+Contestant_524,29,Engineer,"Miami, FL",13,81
+Contestant_525,23,Photographer,"Chicago, IL",14,19
+Contestant_526,25,Photographer,"Chicago, IL",11,77
+Contestant_527,34,Chef,"Miami, FL",7,34
+Contestant_528,28,Nurse,"San Diego, CA",8,41
+Contestant_529,35,Designer,"San Diego, CA",3,94
+Contestant_530,29,Engineer,"Austin, TX",10,9
+Contestant_531,35,Photographer,"Los Angeles, CA",11,12
+Contestant_532,33,Nurse,"Miami, FL",5,50
+Contestant_533,34,Lawyer,"Boston, MA",11,72
+Contestant_534,35,Designer,"Portland, OR",7,51
+Contestant_535,26,Teacher,"Portland, OR",7,71
+Contestant_536,27,Nurse,"Boston, MA",8,42
+Contestant_537,25,Artist,"New York, NY",2,36
+Contestant_538,35,Photographer,"Portland, OR",11,67
+Contestant_539,34,Teacher,"Boston, MA",13,59
+Contestant_540,24,Teacher,"Miami, FL",15,2
+Contestant_541,29,Photographer,"Seattle, WA",13,90
+Contestant_542,23,Entrepreneur,"Austin, TX",2,80
+Contestant_543,30,Entrepreneur,"Los Angeles, CA",7,76
+Contestant_544,26,Engineer,"New York, NY",9,67
+Contestant_545,26,Photographer,"Boston, MA",12,54
+Contestant_546,30,Photographer,"Miami, FL",5,15
+Contestant_547,28,Engineer,"New York, NY",12,54
+Contestant_548,27,Engineer,"Chicago, IL",15,20
+Contestant_549,35,Chef,"Los Angeles, CA",15,19
+Contestant_550,26,Designer,"Miami, FL",6,73
+Contestant_551,26,Doctor,"San Diego, CA",8,76
+Contestant_552,23,Engineer,"Seattle, WA",8,75
+Contestant_553,33,Doctor,"New York, NY",6,98
+Contestant_554,26,Artist,"San Diego, CA",10,13
+Contestant_555,29,Designer,"Denver, CO",1,14
+Contestant_556,28,Designer,"Denver, CO",14,73
+Contestant_557,27,Nurse,"Portland, OR",13,100
+Contestant_558,24,Chef,"Los Angeles, CA",14,13
+Contestant_559,35,Entrepreneur,"Austin, TX",12,37
+Contestant_560,27,Designer,"Denver, CO",2,69
+Contestant_561,28,Nurse,"Austin, TX",12,45
+Contestant_562,33,Artist,"New York, NY",8,53
+Contestant_563,31,Photographer,"New York, NY",11,34
+Contestant_564,29,Nurse,"Boston, MA",11,50
+Contestant_565,33,Designer,"Los Angeles, CA",12,84
+Contestant_566,31,Entrepreneur,"Seattle, WA",6,63
+Contestant_567,28,Engineer,"Chicago, IL",14,74
+Contestant_568,23,Engineer,"Miami, FL",2,78
+Contestant_569,24,Nurse,"Denver, CO",13,61
+Contestant_570,27,Lawyer,"Seattle, WA",9,5
+Contestant_571,25,Entrepreneur,"Boston, MA",7,23
+Contestant_572,32,Photographer,"Miami, FL",4,36
+Contestant_573,27,Lawyer,"Los Angeles, CA",7,52
+Contestant_574,23,Entrepreneur,"Miami, FL",14,19
+Contestant_575,24,Chef,"San Diego, CA",4,80
+Contestant_576,32,Photographer,"San Diego, CA",8,78
+Contestant_577,29,Entrepreneur,"Chicago, IL",5,88
+Contestant_578,28,Entrepreneur,"Miami, FL",6,89
+Contestant_579,34,Engineer,"Los Angeles, CA",14,52
+Contestant_580,35,Chef,"Seattle, WA",5,5
+Contestant_581,28,Entrepreneur,"Chicago, IL",6,51
+Contestant_582,29,Chef,"Austin, TX",9,43
+Contestant_583,32,Artist,"Boston, MA",10,89
+Contestant_584,31,Chef,"Miami, FL",3,31
+Contestant_585,24,Doctor,"New York, NY",10,7
+Contestant_586,29,Photographer,"Denver, CO",14,96
+Contestant_587,32,Engineer,"Portland, OR",8,61
+Contestant_588,26,Engineer,"Miami, FL",13,35
+Contestant_589,27,Engineer,"Austin, TX",6,48
+Contestant_590,23,Engineer,"Miami, FL",15,3
+Contestant_591,34,Entrepreneur,"Los Angeles, CA",11,44
+Contestant_592,29,Engineer,"San Diego, CA",13,39
+Contestant_593,23,Chef,"Seattle, WA",1,40
+Contestant_594,31,Doctor,"Seattle, WA",1,36
+Contestant_595,35,Nurse,"New York, NY",2,63
+Contestant_596,31,Teacher,"Boston, MA",11,90
+Contestant_597,33,Designer,"New York, NY",13,88
+Contestant_598,34,Nurse,"Boston, MA",14,13
+Contestant_599,34,Nurse,"San Diego, CA",8,30
+Contestant_600,34,Chef,"Los Angeles, CA",1,18
+Contestant_601,33,Engineer,"Denver, CO",2,39
+Contestant_602,26,Entrepreneur,"Portland, OR",15,96
+Contestant_603,28,Chef,"Boston, MA",14,57
+Contestant_604,29,Entrepreneur,"Portland, OR",3,100
+Contestant_605,24,Teacher,"Seattle, WA",8,42
+Contestant_606,33,Artist,"Seattle, WA",8,35
+Contestant_607,28,Designer,"San Diego, CA",1,94
+Contestant_608,32,Artist,"Austin, TX",7,54
+Contestant_609,28,Chef,"Portland, OR",4,78
+Contestant_610,33,Engineer,"Boston, MA",12,83
+Contestant_611,24,Designer,"Portland, OR",15,12
+Contestant_612,34,Nurse,"Los Angeles, CA",3,25
+Contestant_613,27,Lawyer,"Austin, TX",15,57
+Contestant_614,31,Doctor,"San Diego, CA",11,28
+Contestant_615,27,Photographer,"Austin, TX",5,53
+Contestant_616,33,Lawyer,"Chicago, IL",3,95
+Contestant_617,29,Engineer,"Portland, OR",14,63
+Contestant_618,28,Chef,"Portland, OR",15,98
+Contestant_619,29,Nurse,"Seattle, WA",15,67
+Contestant_620,34,Chef,"San Diego, CA",5,48
+Contestant_621,27,Engineer,"Portland, OR",2,8
+Contestant_622,31,Artist,"New York, NY",11,66
+Contestant_623,25,Designer,"New York, NY",6,21
+Contestant_624,26,Lawyer,"Los Angeles, CA",5,9
+Contestant_625,29,Entrepreneur,"Portland, OR",2,40
+Contestant_626,33,Nurse,"Boston, MA",6,91
+Contestant_627,29,Designer,"Austin, TX",11,65
+Contestant_628,33,Designer,"Seattle, WA",15,52
+Contestant_629,34,Nurse,"San Diego, CA",11,18
+Contestant_630,25,Teacher,"Boston, MA",3,100
+Contestant_631,32,Designer,"Austin, TX",1,68
+Contestant_632,32,Artist,"Portland, OR",7,73
+Contestant_633,27,Teacher,"Boston, MA",11,4
+Contestant_634,29,Doctor,"Chicago, IL",5,23
+Contestant_635,31,Artist,"Boston, MA",12,25
+Contestant_636,23,Artist,"New York, NY",12,26
+Contestant_637,27,Chef,"Portland, OR",13,8
+Contestant_638,27,Chef,"Denver, CO",4,32
+Contestant_639,26,Teacher,"Boston, MA",7,5
+Contestant_640,29,Doctor,"San Diego, CA",11,59
+Contestant_641,35,Doctor,"Chicago, IL",2,7
+Contestant_642,32,Designer,"Portland, OR",12,47
+Contestant_643,32,Entrepreneur,"Boston, MA",2,91
+Contestant_644,33,Engineer,"Miami, FL",1,26
+Contestant_645,28,Doctor,"Chicago, IL",4,36
+Contestant_646,30,Teacher,"Denver, CO",8,48
+Contestant_647,30,Engineer,"Miami, FL",2,60
+Contestant_648,30,Nurse,"Chicago, IL",3,65
+Contestant_649,33,Lawyer,"Seattle, WA",10,51
+Contestant_650,26,Entrepreneur,"San Diego, CA",4,82
+Contestant_651,31,Entrepreneur,"Austin, TX",9,16
+Contestant_652,30,Photographer,"Chicago, IL",11,88
+Contestant_653,35,Chef,"Denver, CO",8,4
+Contestant_654,35,Doctor,"Los Angeles, CA",1,31
+Contestant_655,34,Chef,"Austin, TX",1,48
+Contestant_656,25,Artist,"Portland, OR",12,63
+Contestant_657,33,Chef,"Chicago, IL",6,77
+Contestant_658,24,Designer,"Austin, TX",14,58
+Contestant_659,27,Designer,"Boston, MA",2,23
+Contestant_660,31,Engineer,"Chicago, IL",14,61
+Contestant_661,33,Teacher,"Miami, FL",7,76
+Contestant_662,33,Doctor,"Denver, CO",12,71
+Contestant_663,32,Doctor,"New York, NY",3,45
+Contestant_664,28,Designer,"New York, NY",8,45
+Contestant_665,24,Teacher,"Denver, CO",2,21
+Contestant_666,35,Engineer,"Los Angeles, CA",4,34
+Contestant_667,26,Artist,"Denver, CO",7,96
+Contestant_668,33,Photographer,"Boston, MA",2,89
+Contestant_669,27,Entrepreneur,"Denver, CO",12,12
+Contestant_670,26,Photographer,"Denver, CO",13,37
+Contestant_671,35,Designer,"Austin, TX",2,4
+Contestant_672,26,Photographer,"Portland, OR",2,50
+Contestant_673,25,Entrepreneur,"New York, NY",6,7
+Contestant_674,23,Artist,"Los Angeles, CA",6,21
+Contestant_675,23,Lawyer,"Austin, TX",15,74
+Contestant_676,26,Nurse,"New York, NY",5,100
+Contestant_677,30,Engineer,"Portland, OR",3,28
+Contestant_678,32,Chef,"Denver, CO",7,29
+Contestant_679,35,Entrepreneur,"Portland, OR",13,83
+Contestant_680,24,Engineer,"New York, NY",14,29
+Contestant_681,30,Artist,"Seattle, WA",13,87
+Contestant_682,29,Designer,"Chicago, IL",14,27
+Contestant_683,33,Photographer,"Chicago, IL",3,35
+Contestant_684,32,Nurse,"Miami, FL",11,84
+Contestant_685,26,Artist,"Boston, MA",11,53
+Contestant_686,34,Teacher,"Portland, OR",3,66
+Contestant_687,34,Lawyer,"Denver, CO",2,3
+Contestant_688,29,Entrepreneur,"Portland, OR",9,100
+Contestant_689,30,Designer,"Denver, CO",10,99
+Contestant_690,29,Teacher,"Seattle, WA",1,88
+Contestant_691,26,Teacher,"Seattle, WA",10,2
+Contestant_692,25,Lawyer,"Boston, MA",11,61
+Contestant_693,33,Artist,"Los Angeles, CA",3,17
+Contestant_694,34,Lawyer,"New York, NY",8,83
+Contestant_695,23,Doctor,"Miami, FL",6,23
+Contestant_696,35,Artist,"Seattle, WA",12,77
+Contestant_697,35,Artist,"Austin, TX",4,2
+Contestant_698,24,Chef,"Chicago, IL",11,29
+Contestant_699,35,Engineer,"Denver, CO",12,33
+Contestant_700,29,Teacher,"San Diego, CA",3,78
+Contestant_701,26,Photographer,"Chicago, IL",15,40
+Contestant_702,25,Entrepreneur,"Seattle, WA",7,92
+Contestant_703,35,Doctor,"Seattle, WA",10,91
+Contestant_704,34,Doctor,"Austin, TX",11,83
+Contestant_705,31,Entrepreneur,"Austin, TX",8,36
+Contestant_706,30,Nurse,"San Diego, CA",14,55
+Contestant_707,23,Lawyer,"Chicago, IL",4,49
+Contestant_708,31,Nurse,"Boston, MA",2,45
+Contestant_709,26,Nurse,"San Diego, CA",15,59
+Contestant_710,24,Chef,"Chicago, IL",2,33
+Contestant_711,30,Engineer,"Seattle, WA",3,28
+Contestant_712,25,Entrepreneur,"Chicago, IL",13,60
+Contestant_713,35,Teacher,"Denver, CO",2,39
+Contestant_714,30,Entrepreneur,"Boston, MA",10,87
+Contestant_715,33,Teacher,"Seattle, WA",12,67
+Contestant_716,31,Photographer,"Portland, OR",7,80
+Contestant_717,31,Engineer,"Seattle, WA",6,51
+Contestant_718,32,Chef,"Chicago, IL",7,75
+Contestant_719,28,Designer,"New York, NY",6,14
+Contestant_720,35,Entrepreneur,"Portland, OR",13,1
+Contestant_721,30,Designer,"Miami, FL",3,66
+Contestant_722,32,Entrepreneur,"Seattle, WA",4,85
+Contestant_723,34,Entrepreneur,"San Diego, CA",5,48
+Contestant_724,31,Artist,"Los Angeles, CA",11,72
+Contestant_725,29,Engineer,"San Diego, CA",2,83
+Contestant_726,31,Entrepreneur,"San Diego, CA",4,77
+Contestant_727,30,Teacher,"Los Angeles, CA",9,78
+Contestant_728,25,Chef,"Seattle, WA",10,37
+Contestant_729,34,Doctor,"Miami, FL",10,39
+Contestant_730,30,Designer,"New York, NY",12,88
+Contestant_731,30,Photographer,"Portland, OR",10,14
+Contestant_732,27,Chef,"Seattle, WA",5,62
+Contestant_733,35,Engineer,"Denver, CO",13,9
+Contestant_734,26,Entrepreneur,"Miami, FL",12,44
+Contestant_735,33,Engineer,"Miami, FL",1,36
+Contestant_736,27,Lawyer,"Chicago, IL",14,82
+Contestant_737,35,Entrepreneur,"Portland, OR",14,42
+Contestant_738,35,Designer,"San Diego, CA",11,36
+Contestant_739,31,Entrepreneur,"New York, NY",15,34
+Contestant_740,30,Nurse,"Denver, CO",5,84
+Contestant_741,33,Engineer,"Portland, OR",4,92
+Contestant_742,26,Entrepreneur,"Boston, MA",9,84
+Contestant_743,27,Artist,"Chicago, IL",10,39
+Contestant_744,30,Chef,"Los Angeles, CA",9,25
+Contestant_745,24,Lawyer,"Denver, CO",4,20
+Contestant_746,34,Chef,"Portland, OR",12,67
+Contestant_747,27,Doctor,"Los Angeles, CA",7,98
+Contestant_748,26,Engineer,"Denver, CO",5,31
+Contestant_749,27,Nurse,"Denver, CO",11,8
+Contestant_750,28,Engineer,"New York, NY",1,77
+Contestant_751,28,Nurse,"Miami, FL",13,52
+Contestant_752,31,Nurse,"Denver, CO",15,85
+Contestant_753,24,Lawyer,"New York, NY",13,41
+Contestant_754,25,Chef,"Portland, OR",4,88
+Contestant_755,25,Chef,"Boston, MA",8,18
+Contestant_756,26,Doctor,"Seattle, WA",7,93
+Contestant_757,29,Lawyer,"Seattle, WA",2,4
+Contestant_758,34,Engineer,"Miami, FL",4,84
+Contestant_759,25,Doctor,"New York, NY",8,64
+Contestant_760,34,Artist,"Boston, MA",11,38
+Contestant_761,26,Lawyer,"Chicago, IL",10,34
+Contestant_762,24,Doctor,"Portland, OR",2,54
+Contestant_763,29,Designer,"Denver, CO",9,52
+Contestant_764,29,Doctor,"Denver, CO",15,50
+Contestant_765,28,Engineer,"Portland, OR",1,95
+Contestant_766,31,Doctor,"Portland, OR",6,5
+Contestant_767,30,Photographer,"New York, NY",15,75
+Contestant_768,29,Photographer,"Denver, CO",6,91
+Contestant_769,23,Designer,"Seattle, WA",3,74
+Contestant_770,26,Designer,"Miami, FL",7,25
+Contestant_771,29,Photographer,"Seattle, WA",14,44
+Contestant_772,29,Designer,"Los Angeles, CA",14,93
+Contestant_773,35,Designer,"Austin, TX",10,92
+Contestant_774,32,Chef,"Boston, MA",7,29
+Contestant_775,34,Chef,"Los Angeles, CA",6,88
+Contestant_776,23,Doctor,"Austin, TX",9,69
+Contestant_777,35,Photographer,"Portland, OR",11,82
+Contestant_778,32,Engineer,"Seattle, WA",3,61
+Contestant_779,29,Photographer,"Chicago, IL",13,86
+Contestant_780,30,Photographer,"Miami, FL",8,46
+Contestant_781,23,Artist,"Denver, CO",13,65
+Contestant_782,28,Artist,"San Diego, CA",2,39
+Contestant_783,27,Designer,"San Diego, CA",1,22
+Contestant_784,35,Teacher,"Chicago, IL",10,85
+Contestant_785,29,Chef,"Austin, TX",2,72
+Contestant_786,29,Nurse,"Seattle, WA",1,24
+Contestant_787,31,Engineer,"San Diego, CA",5,38
+Contestant_788,34,Artist,"Portland, OR",4,13
+Contestant_789,34,Photographer,"Seattle, WA",1,61
+Contestant_790,31,Photographer,"Boston, MA",15,17
+Contestant_791,35,Teacher,"Seattle, WA",1,95
+Contestant_792,32,Teacher,"Los Angeles, CA",13,34
+Contestant_793,26,Chef,"Miami, FL",7,93
+Contestant_794,30,Artist,"Chicago, IL",9,72
+Contestant_795,26,Engineer,"Seattle, WA",5,98
+Contestant_796,27,Engineer,"Seattle, WA",11,24
+Contestant_797,29,Designer,"Austin, TX",12,88
+Contestant_798,30,Designer,"Boston, MA",9,43
+Contestant_799,23,Nurse,"Seattle, WA",13,84
+Contestant_800,29,Entrepreneur,"San Diego, CA",7,12
+Contestant_801,28,Photographer,"Seattle, WA",7,29
+Contestant_802,33,Designer,"Denver, CO",12,46
+Contestant_803,33,Nurse,"Seattle, WA",7,29
+Contestant_804,35,Teacher,"Portland, OR",2,96
+Contestant_805,29,Photographer,"Los Angeles, CA",11,40
+Contestant_806,34,Designer,"Miami, FL",9,54
+Contestant_807,25,Lawyer,"Denver, CO",9,43
+Contestant_808,30,Chef,"Boston, MA",10,48
+Contestant_809,25,Designer,"Portland, OR",3,34
+Contestant_810,32,Photographer,"Los Angeles, CA",5,75
+Contestant_811,31,Nurse,"Miami, FL",2,38
+Contestant_812,23,Doctor,"Miami, FL",5,60
+Contestant_813,29,Teacher,"Los Angeles, CA",2,16
+Contestant_814,32,Photographer,"Portland, OR",9,61
+Contestant_815,32,Engineer,"Boston, MA",15,7
+Contestant_816,33,Chef,"Boston, MA",4,82
+Contestant_817,23,Engineer,"Austin, TX",13,75
+Contestant_818,24,Nurse,"Boston, MA",3,75
+Contestant_819,33,Doctor,"Los Angeles, CA",9,80
+Contestant_820,29,Teacher,"Seattle, WA",6,10
+Contestant_821,25,Lawyer,"Los Angeles, CA",7,61
+Contestant_822,30,Photographer,"Los Angeles, CA",10,25
+Contestant_823,25,Photographer,"Denver, CO",11,65
+Contestant_824,23,Nurse,"Chicago, IL",13,16
+Contestant_825,27,Nurse,"San Diego, CA",14,88
+Contestant_826,29,Designer,"Seattle, WA",11,49
+Contestant_827,28,Doctor,"New York, NY",11,68
+Contestant_828,26,Chef,"Chicago, IL",11,39
+Contestant_829,30,Chef,"Miami, FL",2,53
+Contestant_830,28,Artist,"Portland, OR",5,7
+Contestant_831,28,Entrepreneur,"San Diego, CA",12,20
+Contestant_832,35,Entrepreneur,"San Diego, CA",7,18
+Contestant_833,29,Chef,"Denver, CO",12,26
+Contestant_834,27,Designer,"Miami, FL",14,44
+Contestant_835,35,Teacher,"New York, NY",4,53
+Contestant_836,29,Chef,"Seattle, WA",1,73
+Contestant_837,27,Engineer,"Los Angeles, CA",4,59
+Contestant_838,24,Chef,"Seattle, WA",2,19
+Contestant_839,30,Engineer,"Denver, CO",15,41
+Contestant_840,23,Nurse,"San Diego, CA",7,92
+Contestant_841,34,Entrepreneur,"Seattle, WA",2,24
+Contestant_842,31,Artist,"Boston, MA",8,100
+Contestant_843,23,Artist,"Portland, OR",10,11
+Contestant_844,28,Designer,"Los Angeles, CA",10,63
+Contestant_845,26,Doctor,"Miami, FL",1,43
+Contestant_846,33,Chef,"Boston, MA",5,81
+Contestant_847,24,Engineer,"Boston, MA",11,23
+Contestant_848,35,Designer,"Boston, MA",12,41
+Contestant_849,33,Doctor,"New York, NY",11,82
+Contestant_850,23,Chef,"Los Angeles, CA",12,8
+Contestant_851,35,Artist,"New York, NY",3,1
+Contestant_852,23,Entrepreneur,"New York, NY",2,58
+Contestant_853,26,Doctor,"Portland, OR",1,36
+Contestant_854,26,Designer,"Boston, MA",12,27
+Contestant_855,23,Engineer,"New York, NY",3,98
+Contestant_856,32,Artist,"Portland, OR",12,100
+Contestant_857,25,Nurse,"Chicago, IL",1,22
+Contestant_858,26,Entrepreneur,"Portland, OR",3,74
+Contestant_859,25,Chef,"Chicago, IL",8,98
+Contestant_860,30,Doctor,"Austin, TX",6,21
+Contestant_861,33,Nurse,"Chicago, IL",9,63
+Contestant_862,24,Engineer,"Chicago, IL",9,98
+Contestant_863,32,Entrepreneur,"Denver, CO",13,100
+Contestant_864,26,Nurse,"New York, NY",14,12
+Contestant_865,30,Chef,"Seattle, WA",12,17
+Contestant_866,34,Teacher,"Austin, TX",5,79
+Contestant_867,27,Chef,"New York, NY",3,56
+Contestant_868,35,Artist,"Chicago, IL",6,82
+Contestant_869,28,Doctor,"Seattle, WA",3,55
+Contestant_870,25,Lawyer,"Portland, OR",12,52
+Contestant_871,32,Chef,"Boston, MA",13,55
+Contestant_872,32,Photographer,"Los Angeles, CA",14,62
+Contestant_873,34,Lawyer,"Chicago, IL",5,50
+Contestant_874,34,Lawyer,"San Diego, CA",12,1
+Contestant_875,24,Doctor,"San Diego, CA",15,5
+Contestant_876,35,Doctor,"Boston, MA",2,69
+Contestant_877,25,Engineer,"Boston, MA",13,26
+Contestant_878,27,Artist,"Chicago, IL",15,94
+Contestant_879,24,Engineer,"Chicago, IL",1,48
+Contestant_880,32,Nurse,"Portland, OR",6,2
+Contestant_881,23,Nurse,"Portland, OR",13,42
+Contestant_882,27,Nurse,"Denver, CO",7,97
+Contestant_883,32,Teacher,"Chicago, IL",5,68
+Contestant_884,33,Chef,"Chicago, IL",9,25
+Contestant_885,29,Designer,"Portland, OR",2,3
+Contestant_886,29,Doctor,"Miami, FL",5,87
+Contestant_887,34,Designer,"Portland, OR",12,1
+Contestant_888,26,Entrepreneur,"Miami, FL",10,81
+Contestant_889,24,Doctor,"Chicago, IL",11,94
+Contestant_890,32,Doctor,"Portland, OR",2,32
+Contestant_891,34,Doctor,"Denver, CO",8,29
+Contestant_892,33,Designer,"New York, NY",8,89
+Contestant_893,26,Doctor,"Austin, TX",9,45
+Contestant_894,24,Photographer,"Austin, TX",6,40
+Contestant_895,34,Teacher,"Portland, OR",1,17
+Contestant_896,35,Entrepreneur,"New York, NY",8,14
+Contestant_897,27,Chef,"Seattle, WA",14,50
+Contestant_898,33,Lawyer,"Seattle, WA",10,65
+Contestant_899,32,Photographer,"San Diego, CA",3,76
+Contestant_900,35,Designer,"Portland, OR",6,40
+Contestant_901,24,Artist,"Miami, FL",3,22
+Contestant_902,35,Photographer,"Los Angeles, CA",5,9
+Contestant_903,32,Lawyer,"Miami, FL",13,6
+Contestant_904,35,Nurse,"Denver, CO",2,39
+Contestant_905,23,Lawyer,"Austin, TX",15,38
+Contestant_906,28,Artist,"Los Angeles, CA",10,59
+Contestant_907,31,Photographer,"Denver, CO",11,94
+Contestant_908,29,Lawyer,"Boston, MA",12,67
+Contestant_909,33,Chef,"San Diego, CA",2,77
+Contestant_910,28,Designer,"Seattle, WA",4,68
+Contestant_911,24,Photographer,"Seattle, WA",12,44
+Contestant_912,31,Photographer,"Miami, FL",9,56
+Contestant_913,33,Artist,"Austin, TX",1,88
+Contestant_914,28,Entrepreneur,"Chicago, IL",1,18
+Contestant_915,23,Nurse,"Austin, TX",14,44
+Contestant_916,29,Nurse,"Denver, CO",14,63
+Contestant_917,30,Entrepreneur,"Denver, CO",1,46
+Contestant_918,24,Doctor,"Denver, CO",4,97
+Contestant_919,29,Lawyer,"Portland, OR",1,25
+Contestant_920,28,Designer,"Boston, MA",8,22
+Contestant_921,33,Doctor,"Chicago, IL",6,52
+Contestant_922,30,Artist,"Chicago, IL",7,3
+Contestant_923,34,Teacher,"New York, NY",15,30
+Contestant_924,25,Photographer,"Austin, TX",3,29
+Contestant_925,29,Chef,"Boston, MA",3,94
+Contestant_926,25,Nurse,"Denver, CO",15,17
+Contestant_927,34,Engineer,"Los Angeles, CA",14,28
+Contestant_928,31,Nurse,"San Diego, CA",1,94
+Contestant_929,33,Engineer,"Austin, TX",9,3
+Contestant_930,27,Artist,"Portland, OR",13,76
+Contestant_931,32,Engineer,"Chicago, IL",15,65
+Contestant_932,35,Doctor,"Seattle, WA",12,22
+Contestant_933,31,Artist,"Seattle, WA",12,16
+Contestant_934,35,Photographer,"San Diego, CA",11,47
+Contestant_935,30,Nurse,"Boston, MA",7,92
+Contestant_936,30,Doctor,"Miami, FL",4,84
+Contestant_937,29,Entrepreneur,"Chicago, IL",6,5
+Contestant_938,34,Engineer,"Austin, TX",4,49
+Contestant_939,32,Lawyer,"Miami, FL",7,82
+Contestant_940,27,Photographer,"Portland, OR",15,33
+Contestant_941,28,Chef,"San Diego, CA",12,99
+Contestant_942,26,Teacher,"Chicago, IL",6,69
+Contestant_943,24,Entrepreneur,"New York, NY",5,80
+Contestant_944,27,Teacher,"Los Angeles, CA",14,7
+Contestant_945,30,Entrepreneur,"Chicago, IL",2,77
+Contestant_946,26,Nurse,"Seattle, WA",10,7
+Contestant_947,35,Chef,"San Diego, CA",6,85
+Contestant_948,30,Lawyer,"New York, NY",2,14
+Contestant_949,32,Entrepreneur,"Denver, CO",9,84
+Contestant_950,32,Engineer,"Austin, TX",11,3
+Contestant_951,33,Chef,"Miami, FL",15,7
+Contestant_952,29,Lawyer,"New York, NY",1,89
+Contestant_953,28,Teacher,"San Diego, CA",3,15
+Contestant_954,23,Chef,"Seattle, WA",4,54
+Contestant_955,30,Engineer,"San Diego, CA",13,57
+Contestant_956,28,Chef,"Denver, CO",9,49
+Contestant_957,25,Doctor,"Portland, OR",1,16
+Contestant_958,30,Doctor,"Los Angeles, CA",7,71
+Contestant_959,26,Teacher,"Denver, CO",2,33
+Contestant_960,28,Artist,"New York, NY",15,61
+Contestant_961,35,Photographer,"Austin, TX",8,90
+Contestant_962,27,Doctor,"Portland, OR",14,20
+Contestant_963,28,Photographer,"Los Angeles, CA",5,27
+Contestant_964,27,Photographer,"Chicago, IL",13,89
+Contestant_965,32,Designer,"Austin, TX",14,88
+Contestant_966,34,Teacher,"Denver, CO",5,81
+Contestant_967,27,Engineer,"Seattle, WA",6,2
+Contestant_968,31,Teacher,"Austin, TX",2,39
+Contestant_969,23,Artist,"Los Angeles, CA",9,54
+Contestant_970,31,Lawyer,"San Diego, CA",8,85
+Contestant_971,26,Doctor,"San Diego, CA",1,13
+Contestant_972,24,Nurse,"San Diego, CA",6,85
+Contestant_973,26,Designer,"Denver, CO",4,67
+Contestant_974,34,Nurse,"Los Angeles, CA",5,35
+Contestant_975,29,Entrepreneur,"Chicago, IL",10,80
+Contestant_976,30,Engineer,"Miami, FL",13,78
+Contestant_977,31,Artist,"Boston, MA",5,90
+Contestant_978,35,Lawyer,"Boston, MA",12,18
+Contestant_979,26,Artist,"Seattle, WA",10,54
+Contestant_980,34,Engineer,"Los Angeles, CA",4,14
+Contestant_981,30,Teacher,"Portland, OR",8,66
+Contestant_982,33,Lawyer,"Denver, CO",6,93
+Contestant_983,34,Entrepreneur,"Denver, CO",10,80
+Contestant_984,30,Designer,"New York, NY",8,16
+Contestant_985,30,Photographer,"San Diego, CA",13,37
+Contestant_986,35,Engineer,"Denver, CO",13,15
+Contestant_987,23,Engineer,"Austin, TX",4,14
+Contestant_988,24,Photographer,"San Diego, CA",12,64
+Contestant_989,27,Designer,"Miami, FL",15,26
+Contestant_990,26,Nurse,"Seattle, WA",9,78
+Contestant_991,29,Teacher,"Austin, TX",13,26
+Contestant_992,34,Nurse,"Austin, TX",13,100
+Contestant_993,26,Designer,"Miami, FL",4,34
+Contestant_994,27,Lawyer,"New York, NY",3,67
+Contestant_995,33,Doctor,"Denver, CO",1,26
+Contestant_996,32,Artist,"New York, NY",15,46
+Contestant_997,28,Entrepreneur,"Denver, CO",7,91
+Contestant_998,30,Teacher,"Los Angeles, CA",1,53
+Contestant_999,31,Designer,"Los Angeles, CA",4,38
+Contestant_1000,31,Chef,"Austin, TX",9,21
